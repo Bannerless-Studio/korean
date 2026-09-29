@@ -141,3 +141,5 @@ Residuals from the v1 QA rounds. The rules already in place are in
 ## Live check 2026-09-25 (14/14 PASS)
 - Minor mislink: 거는 in "…않다는 거는 저도…" links 걸다 "to hang"; should be 것 + 는 (same class as bare 거 → 것). Fix in the next rebuild.
 - 39/2000 words (mostly A1 particles) have no example showing the headword or an alt; 38 more miss on one of two examples.
+
+Republish 09e90bc: sentence spans (20190/20190 linked words placed, 0 unspanned WARN); inflected forms now cloze targets. words.json unchanged: no word level or gloss moved by stab narrowing.
