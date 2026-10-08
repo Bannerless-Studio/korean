@@ -151,5 +151,47 @@
       "wordRead": 20,
       "symType": 10
     }
+  },
+  "dayAware": true,
+  "typedFrom": [
+    "written"
+  ],
+  "glossFocus": true,
+  "glossStyle": "primary",
+  "helpClose": true,
+  "readAnswerBlock": true,
+  "optsMix": true,
+  "pauseNew": true,
+  "listenQuestions": "all",
+  "readRotation": true,
+  "wordsBy": "typed",
+  "progressMap": {
+    "goals": [
+      {
+        "upTo": "A1",
+        "label": "survive a trip: greet, order, count, buy"
+      },
+      {
+        "upTo": "A2",
+        "label": "daily life: directions, simple chat, short notices"
+      },
+      {
+        "upTo": "B1",
+        "label": "follow a slow drama with subtitles"
+      }
+    ]
+  },
+  "pairs": true,
+  "freqTiers": true,
+  "progressView": "v2",
+  "appView": "v2",
+  "levelGate": 0.7,
+  "eta": {
+    "gain": [
+      0.005358155549578536,
+      null,
+      null
+    ],
+    "known": 8.365961362570696
   }
 }
