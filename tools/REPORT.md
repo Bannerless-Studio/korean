@@ -41,6 +41,7 @@ Levels: {'A1': 600, 'A2': 700, 'B1': 700}. POS: {'noun': 1030, 'verb': 504, 'adj
 ## Sentences
 
 - Final sentences: **3,044**, 0 with audio (`https://tatoeba.org/audio/download/<audio_id>`).
+- Sentence ids (`tools/sentence_ids_v1.json`): 3,044 kept, 0 new, 0 retired.
 - Word coverage: 0 = 0, 1 = 16, 2 = 1984.
 - Candidate sentences (terminal punctuation, 3-14 tokens, content lemmas in pack/top-3000, >=1 link): 7,690. Rejected for a content lemma outside pack/top-3000: 2,354.
 - Primary word level of each sentence: {'A2': 1127, 'B1': 1208, 'A1': 709}.
@@ -109,7 +110,7 @@ Levels: {'A1': 600, 'A2': 700, 'B1': 700}. POS: {'noun': 1030, 'verb': 504, 'adj
   54 집 [noun] home, house
   55 정말 [adv] really, truly
   56 많다 [adj] to be many, to be a lot
-  57 먹다 [verb] to eat, have, to drink
+  57 먹다 [verb] to eat; to drink; honorific form 드시다
   58 오늘 [noun] today
   59 받다 [verb] to receive, to get
   60 대하다 [verb] to treat, to face (-에 대해: about)
