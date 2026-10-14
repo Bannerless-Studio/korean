@@ -10,8 +10,8 @@ words = the builder's word count (the band rule); ws_words = whitespace-separate
 tokens of the passage text, the count the app shows (report only).
 
 - **A1**: 20 passages; words/passage 61-73 (median 66.5); ws_words 61-73; coverage min 1.000, median 1.000 (rule >= 0.95); linked min 1.000; questions mc 42, tf 49
-- **A2**: 20 passages; words/passage 91-115 (median 99.0); ws_words 91-115; coverage min 0.977, median 1.000 (rule >= 0.95); linked min 0.977; questions mc 45, tf 54
-- **B1**: 20 passages; words/passage 116-147 (median 134.0); ws_words 116-147; coverage min 0.969, median 1.000 (rule >= 0.93); linked min 0.969; questions mc 42, tf 58
+- **A2**: 30 passages; words/passage 91-115 (median 99.0); ws_words 91-115; coverage min 0.977, median 1.000 (rule >= 0.95); linked min 0.977; questions mc 65, tf 84
+- **B1**: 30 passages; words/passage 111-147 (median 133.5); ws_words 111-147; coverage min 0.969, median 1.000 (rule >= 0.93); linked min 0.969; questions mc 62, tf 88
 
 | id | lv | title | words | ws_words | coverage | linked | out-of-pack lemmas (reason) | higher-level lemmas |
 |---|---|---|---|---|---|---|---|---|
@@ -75,6 +75,26 @@ tokens of the passage text, the count the app shows (report only).
 | p0058 | B1 | 지붕 위의 정원 | 134 | 134 | 1.000 | 1.000 | - | - |
 | p0059 | B1 | 아이들과 휴대폰 | 143 | 143 | 1.000 | 1.000 | - | - |
 | p0060 | B1 | 밤에 들린 소리 | 133 | 133 | 1.000 | 1.000 | - | - |
+| p0061 | A2 | 택시를 탄 날 | 93 | 93 | 1.000 | 1.000 | - | B1: 겨우, 졸리다 |
+| p0062 | A2 | 여권과 스페인어 | 95 | 95 | 1.000 | 1.000 | - | B1: 외우다 |
+| p0063 | A2 | 안경을 사러 간 날 | 99 | 99 | 1.000 | 1.000 | - | B1: 갈색 |
+| p0064 | A2 | 겨울 스키 여행 | 104 | 104 | 1.000 | 1.000 | - | B1: 문자, 이틀 |
+| p0065 | A2 | 저녁 손님 | 98 | 98 | 1.000 | 1.000 | - | B1: 그러다, 문자 |
+| p0066 | A2 | 내일 폭풍이 옵니다 | 107 | 107 | 1.000 | 1.000 | - | B1: 막히다, 배터리 |
+| p0067 | A2 | 간호사 이야기 | 113 | 113 | 1.000 | 1.000 | - | - |
+| p0068 | A2 | 회의 자료를 보냅니다 | 93 | 93 | 1.000 | 1.000 | - | - |
+| p0069 | A2 | 숲으로 간 일요일 | 104 | 104 | 1.000 | 1.000 | - | B1: 차갑다, 표시 |
+| p0070 | A2 | 테니스 연습 | 107 | 107 | 1.000 | 1.000 | - | B1: 날아가다, 자꾸 |
+| p0071 | B1 | 작가와의 대화 | 142 | 142 | 1.000 | 1.000 | - | - |
+| p0072 | B1 | 새 동물원이 문을 엽니다 | 142 | 142 | 1.000 | 1.000 | - | - |
+| p0073 | B1 | 새 컴퓨터가 움직이지 않아요 | 111 | 111 | 1.000 | 1.000 | - | - |
+| p0074 | B1 | 로봇이 일하는 식당 | 132 | 131 | 1.000 | 1.000 | - | - |
+| p0075 | B1 | 아침마다 아픈 목 | 135 | 134 | 1.000 | 1.000 | - | - |
+| p0076 | B1 | 산 정상까지 | 144 | 144 | 1.000 | 1.000 | - | - |
+| p0077 | B1 | 회의 일정이 바뀌었습니다 | 121 | 121 | 1.000 | 1.000 | - | - |
+| p0078 | B1 | 첫 해외 여행 | 125 | 125 | 1.000 | 1.000 | - | - |
+| p0079 | B1 | 작은 나눔 시장 | 131 | 131 | 1.000 | 1.000 | - | - |
+| p0080 | B1 | 휴대폰 없는 주말 | 132 | 132 | 1.000 | 1.000 | - | - |
 
 Title words, and question/option words the budget does not count (a numeral-like
 pack word), that are out of the pack or above the passage's level (report only;

@@ -1,7 +1,7 @@
 # Korean A1-B1 vocab trainer
 
 A free vocabulary trainer for Korean, A1 through B1: 2000 words with short
-English glosses and example sentences, plus 60 short reading passages with
+English glosses and example sentences, plus 80 short reading passages with
 comprehension questions.
 
 **Live:** https://bannerless-studio.github.io/korean/
@@ -29,8 +29,8 @@ not teach.
   from its meaning, and filling a gap in a sentence. Typing drills the
   written Hangul form and is not case-sensitive (case doesn't apply to
   Hangul).
-- **Reading passages (Read tab, inside Today):** 20 short texts each at A1,
-  A2 and B1. A level's passages unlock once you've learned 70% of that
+- **Reading passages (Read tab, inside Today):** 20 short texts at A1
+  and 30 each at A2 and B1. A level's passages unlock once you've learned 70% of that
   level's words. Tap any word in a passage for its gloss, including
   inflected forms. Missed comprehension questions feed the words back into
   review. A passage's spaced re-read (after 7 days) becomes a listening
@@ -79,7 +79,7 @@ every level, as are Tatoeba sentences with non-standard spelling (너가,
 written style, with 반말 last (0.9% of A1, 1.1% of A2, 12.9% of B1
 sentences are 반말).
 
-The 60 reading passages (`pack/passages.json`) were written for this pack
+The 80 reading passages (`pack/passages.json`) were written for this pack
 (`"src": "gen"`, source `tools/passages_src.json`), enforcing in-pack word
 coverage of at least 95% at A1/A2 and 93% at B1, with a level budget on how
 many higher-level words each passage may use. They are machine-written by

@@ -8361,6 +8361,2838 @@
      "sentence": 16
     }
    ]
+  },
+  {
+   "id": "p0061",
+   "lv": "A2",
+   "title": "택시를 탄 날",
+   "oop": {},
+   "names": [],
+   "sentences": [
+    [
+     "어젯밤에 저는 친구 집에서 오래 놀았어요.",
+     "Last night I spent a long time at a friend's house."
+    ],
+    [
+     "열두 시가 넘어서 지하철이 없었어요.",
+     "After twelve o'clock there were no more subways."
+    ],
+    [
+     "그래서 택시를 타기로 했어요.",
+     "So I decided to take a taxi."
+    ],
+    [
+     "길에서 오래 기다렸지만 택시가 오지 않았어요.",
+     "I waited a long time on the street, but no taxi came."
+    ],
+    [
+     "십 분쯤 후에 겨우 한 대를 잡았어요.",
+     "About ten minutes later I finally caught one."
+    ],
+    [
+     "밖에는 비가 오고 길에는 사람이 거의 없었어요.",
+     "It was raining outside and there were hardly any people on the road."
+    ],
+    [
+     "택시에서는 라디오 소리가 작게 나고 있었어요.",
+     "A radio was playing quietly in the taxi."
+    ],
+    [
+     "택시 기사가 \"어디로 갈까요?\" 하고 물었어요.",
+     "The taxi driver asked, \"Where to?\""
+    ],
+    [
+     "저는 주소를 말하고 뒤 자리에 앉았어요.",
+     "I gave the address and sat in the back seat."
+    ],
+    [
+     "차가 많지 않아서 속도가 아주 빨랐어요.",
+     "There weren't many cars, so we went very fast."
+    ],
+    [
+     "기사는 운전을 정말 잘했어요.",
+     "The driver drove really well."
+    ],
+    [
+     "택시는 따뜻해서 조금 졸렸어요.",
+     "The taxi was warm and I felt a little sleepy."
+    ],
+    [
+     "가는 동안 우리는 날씨와 축구 이야기를 했어요.",
+     "On the way we talked about the weather and football."
+    ],
+    [
+     "집 앞에 도착해서 돈을 냈어요.",
+     "We arrived in front of my house and I paid."
+    ],
+    [
+     "기사가 \"조심해서 들어가세요.\" 하고 인사했어요.",
+     "The driver said goodbye with \"Go in carefully.\""
+    ],
+    [
+     "방에 들어오니 벌써 한 시였어요.",
+     "By the time I got to my room it was already one o'clock."
+    ],
+    [
+     "피곤했지만 오랜만에 즐거운 밤이었어요.",
+     "I was tired, but it was a fun night after a long time."
+    ]
+   ],
+   "questions": [
+    {
+     "q": "왜 택시를 탔어요?",
+     "en": "Why did the writer take a taxi?",
+     "type": "mc",
+     "options": [
+      "지하철이 없어서",
+      "길이 멀어서",
+      "비가 와서",
+      "친구가 불러서"
+     ],
+     "answer": 0,
+     "words": [
+      "지하철"
+     ],
+     "sentence": 1
+    },
+    {
+     "q": "택시는 금방 왔어요.",
+     "en": "The taxi came quickly.",
+     "type": "tf",
+     "options": null,
+     "answer": false,
+     "words": [
+      "기다리다"
+     ],
+     "sentence": 3
+    },
+    {
+     "q": "택시에서는 무엇이 나오고 있었어요?",
+     "en": "What was playing in the taxi?",
+     "type": "mc",
+     "options": [
+      "기사의 노래",
+      "전화 소리",
+      "아이들 소리",
+      "라디오"
+     ],
+     "answer": 3,
+     "words": [
+      "라디오"
+     ],
+     "sentence": 6
+    },
+    {
+     "q": "차가 많아서 택시가 천천히 갔어요.",
+     "en": "The taxi went slowly because there were many cars.",
+     "type": "tf",
+     "options": null,
+     "answer": false,
+     "words": [
+      "속도"
+     ],
+     "sentence": 9
+    },
+    {
+     "q": "저는 한 시에 방에 들어갔어요.",
+     "en": "I got to the room at one o'clock.",
+     "type": "tf",
+     "options": null,
+     "answer": true,
+     "words": [
+      "벌써"
+     ],
+     "sentence": 15
+    }
+   ]
+  },
+  {
+   "id": "p0062",
+   "lv": "A2",
+   "title": "여권과 스페인어",
+   "oop": {
+    "스페인": "name (Hangul has no capitals: declared so it is not counted)"
+   },
+   "names": [
+    "스페인"
+   ],
+   "sentences": [
+    [
+     "저는 내년 봄에 스페인으로 여행을 가기로 했어요.",
+     "I decided to travel to Spain next spring."
+    ],
+    [
+     "먼저 여권을 만들어야 했어요.",
+     "First I had to get a passport."
+    ],
+    [
+     "월요일 아침에 서류와 사진을 가지고 사무실에 갔어요.",
+     "On Monday morning I took my papers and a photo to the office."
+    ],
+    [
+     "직원이 서류를 보고 \"일주일 후에 오세요.\" 하고 말했어요.",
+     "The clerk looked at the papers and said, \"Come back in a week.\""
+    ],
+    [
+     "일주일 후에 다시 가니까 새 여권이 나와 있었어요.",
+     "When I went back a week later, the new passport was ready."
+    ],
+    [
+     "여권 사진 속의 저는 조금 이상했어요.",
+     "I looked a little strange in the passport photo."
+    ],
+    [
+     "이제 스페인어도 공부해야 해요.",
+     "Now I have to study Spanish too."
+    ],
+    [
+     "저는 일이 끝난 후에 매일 삼십 분씩 공부해요.",
+     "After work I study for thirty minutes every day."
+    ],
+    [
+     "인터넷에서 영상을 보고 문장을 따라 읽어요.",
+     "I watch videos on the internet and read the sentences after them."
+    ],
+    [
+     "모르는 말이 많아서 가끔 힘들어요.",
+     "There are many words I don't know, so it is sometimes hard."
+    ],
+    [
+     "그래도 인사는 이미 외웠어요.",
+     "Still, I have already memorized the greetings."
+    ],
+    [
+     "어제는 식당에서 쓰는 말을 배웠어요.",
+     "Yesterday I learned the phrases you use at a restaurant."
+    ],
+    [
+     "이제 스페인어로 \"물 주세요\" 하고 말할 수 있어요.",
+     "Now I can say \"Water, please\" in Spanish."
+    ],
+    [
+     "저는 벌써 여행을 기대하고 있어요.",
+     "I am already looking forward to the trip."
+    ],
+    [
+     "가방도 사고 지도도 보고 있어요.",
+     "I am buying a bag and looking at maps too."
+    ],
+    [
+     "빨리 내년 봄이 오면 좋겠어요.",
+     "I hope next spring comes soon."
+    ]
+   ],
+   "questions": [
+    {
+     "q": "직원은 뭐라고 말했어요?",
+     "en": "What did the clerk say?",
+     "type": "mc",
+     "options": [
+      "다음 날 오라고 했어요",
+      "서류를 다시 내라고 했어요",
+      "일주일 뒤에 다시 오라고 했어요",
+      "다음 달에 오라고 했어요"
+     ],
+     "answer": 2,
+     "words": [
+      "직원",
+      "일주일"
+     ],
+     "sentence": 3
+    },
+    {
+     "q": "저는 여권 사진이 마음에 들었어요.",
+     "en": "I liked my passport photo.",
+     "type": "tf",
+     "options": null,
+     "answer": false,
+     "words": [
+      "사진",
+      "이상하다"
+     ],
+     "sentence": 5
+    },
+    {
+     "q": "저는 일이 끝나면 스페인어를 공부해요.",
+     "en": "I study Spanish after work.",
+     "type": "tf",
+     "options": null,
+     "answer": true,
+     "words": [
+      "공부하다"
+     ],
+     "sentence": 7
+    },
+    {
+     "q": "저는 스페인어를 어떻게 공부해요?",
+     "en": "How do I study Spanish?",
+     "type": "mc",
+     "options": [
+      "학교에 다녀요",
+      "인터넷으로 영상을 봐요",
+      "책만 읽어요",
+      "친구와 이야기해요"
+     ],
+     "answer": 1,
+     "words": [
+      "영상"
+     ],
+     "sentence": 8
+    },
+    {
+     "q": "저는 스페인어로 물을 달라고 말할 수 있어요.",
+     "en": "I can ask for water in Spanish.",
+     "type": "tf",
+     "options": null,
+     "answer": true,
+     "words": [
+      "물"
+     ],
+     "sentence": 12
+    }
+   ]
+  },
+  {
+   "id": "p0063",
+   "lv": "A2",
+   "title": "안경을 사러 간 날",
+   "oop": {},
+   "names": [],
+   "sentences": [
+    [
+     "지난 토요일에 저는 동생과 안경 가게에 갔어요.",
+     "Last Saturday I went to a glasses shop with my younger sibling."
+    ],
+    [
+     "제 안경은 너무 오래돼서 글이 잘 안 보였어요.",
+     "My glasses were so old that I couldn't see the text well."
+    ],
+    [
+     "가게 직원이 먼저 제 눈을 검사했어요.",
+     "The shop clerk first tested my eyes."
+    ],
+    [
+     "그리고 여러 가지 안경을 보여 주었어요.",
+     "Then the clerk showed me many different glasses."
+    ],
+    [
+     "저는 검은 안경이 마음에 들었어요.",
+     "I liked the black glasses."
+    ],
+    [
+     "거울 앞에서 써 보니까 얼굴에 잘 어울렸어요.",
+     "When I tried them on in front of the mirror, they suited my face."
+    ],
+    [
+     "그런데 동생은 검은색이 너무 무거워 보인다고 했어요.",
+     "But my sibling said black looked too heavy."
+    ],
+    [
+     "그래서 저는 갈색 안경도 써 봤어요.",
+     "So I tried on brown glasses too."
+    ],
+    [
+     "갈색 안경은 가볍고 편한 느낌이었어요.",
+     "The brown glasses felt light and comfortable."
+    ],
+    [
+     "동생도 이 안경이 더 낫다고 했어요.",
+     "My sibling also said these were better."
+    ],
+    [
+     "가격은 십이만 원이었어요.",
+     "The price was 120,000 won."
+    ],
+    [
+     "조금 비쌌지만 저는 그 안경을 사기로 했어요.",
+     "It was a little expensive, but I decided to buy them."
+    ],
+    [
+     "직원이 \"삼 일 후에 찾으러 오세요.\" 하고 말했어요.",
+     "The clerk said, \"Come and pick them up in three days.\""
+    ],
+    [
+     "가게에서 나와서 우리는 같이 점심을 먹었어요.",
+     "After leaving the shop we had lunch together."
+    ],
+    [
+     "삼 일 후에 안경을 받고 쓰고 나왔어요.",
+     "Three days later I got the glasses and walked out wearing them."
+    ],
+    [
+     "이제 글이 아주 잘 보여요.",
+     "Now I can read the text very well."
+    ]
+   ],
+   "questions": [
+    {
+     "q": "제 안경은 오래된 안경이 아니었어요.",
+     "en": "My glasses were not old.",
+     "type": "tf",
+     "options": null,
+     "answer": false,
+     "words": [
+      "오래되다"
+     ],
+     "sentence": 1
+    },
+    {
+     "q": "저는 처음에 어떤 안경이 마음에 들었어요?",
+     "en": "Which glasses did I like first?",
+     "type": "mc",
+     "options": [
+      "갈색 안경",
+      "검은색 안경",
+      "빨간 안경",
+      "큰 안경"
+     ],
+     "answer": 1,
+     "words": [
+      "검다"
+     ],
+     "sentence": 4
+    },
+    {
+     "q": "동생은 검은 안경이 가볍다고 말했어요.",
+     "en": "The sibling said the black glasses were light.",
+     "type": "tf",
+     "options": null,
+     "answer": false,
+     "words": [
+      "무겁다"
+     ],
+     "sentence": 6
+    },
+    {
+     "q": "갈색 안경은 어떤 느낌이었어요?",
+     "en": "How did the brown glasses feel?",
+     "type": "mc",
+     "options": [
+      "가볍고 편했어요",
+      "크고 비쌌어요",
+      "무겁고 컸어요",
+      "작고 오래됐어요"
+     ],
+     "answer": 0,
+     "words": [
+      "느낌",
+      "가볍다"
+     ],
+     "sentence": 8
+    },
+    {
+     "q": "저는 안경을 그날 바로 받았어요.",
+     "en": "I got the glasses the same day.",
+     "type": "tf",
+     "options": null,
+     "answer": false,
+     "words": [
+      "찾다"
+     ],
+     "sentence": 12
+    }
+   ]
+  },
+  {
+   "id": "p0064",
+   "lv": "A2",
+   "title": "겨울 스키 여행",
+   "oop": {},
+   "names": [],
+   "sentences": [
+    [
+     "우리 회사 직원들을 위한 겨울 스키 여행을 알려 드립니다.",
+     "We announce a winter ski trip for our company's staff."
+    ],
+    [
+     "여행은 일월 이십 일부터 이틀 동안 갑니다.",
+     "The trip runs for two days from January 20."
+    ],
+    [
+     "아침 일곱 시에 회사 앞에서 버스가 출발합니다.",
+     "The bus leaves in front of the company at seven in the morning."
+    ],
+    [
+     "스키를 탄 적이 없는 분도 괜찮습니다.",
+     "People who have never skied are welcome too."
+    ],
+    [
+     "처음 오신 분은 선생님과 두 시간 동안 연습을 합니다.",
+     "First-timers practise for two hours with an instructor."
+    ],
+    [
+     "스키 옷과 신발은 빌릴 수 있습니다.",
+     "Ski clothes and shoes can be rented."
+    ],
+    [
+     "모자와 가방은 직접 가지고 오십시오.",
+     "Please bring your own hat and bag."
+    ],
+    [
+     "돈은 한 사람에 팔만 원입니다.",
+     "The cost is 80,000 won per person."
+    ],
+    [
+     "버스 값과 호텔 값이 모두 들어 있습니다.",
+     "The bus fare and the hotel are both included."
+    ],
+    [
+     "가고 싶은 분은 다음 주 금요일까지 사무실에 말해 주십시오.",
+     "If you want to go, please tell the office by next Friday."
+    ],
+    [
+     "스무 명이 넘으면 더 받을 수 없습니다.",
+     "We cannot take more once there are over twenty people."
+    ],
+    [
+     "몸이 아프거나 감기에 걸린 분은 안전을 위해 스키를 타지 마십시오.",
+     "If you are sick or have a cold, please do not ski, for your safety."
+    ],
+    [
+     "날씨가 나쁘면 예정이 바뀔 수도 있습니다.",
+     "If the weather is bad, the plan may change."
+    ],
+    [
+     "그럴 때는 하루 전에 문자로 알려 드립니다.",
+     "In that case we will let you know by text one day before."
+    ],
+    [
+     "많은 분이 오시기를 바랍니다.",
+     "We hope many of you will come."
+    ]
+   ],
+   "questions": [
+    {
+     "q": "버스는 몇 시에 출발해요?",
+     "en": "What time does the bus leave?",
+     "type": "mc",
+     "options": [
+      "아침 여덟 시",
+      "아침 여섯 시",
+      "낮 열두 시",
+      "아침 일곱 시"
+     ],
+     "answer": 3,
+     "words": [
+      "버스"
+     ],
+     "sentence": 2
+    },
+    {
+     "q": "스키를 한 번도 탄 적이 없는 사람은 갈 수 없어요.",
+     "en": "People who have never skied cannot go.",
+     "type": "tf",
+     "options": null,
+     "answer": false,
+     "words": [
+      "스키"
+     ],
+     "sentence": 3
+    },
+    {
+     "q": "모자와 가방은 어떻게 해야 해요?",
+     "en": "What should you do about the hat and bag?",
+     "type": "mc",
+     "options": [
+      "가게에서 빌려요",
+      "선생님이 줘요",
+      "직접 가지고 와요",
+      "사지 않아도 돼요"
+     ],
+     "answer": 2,
+     "words": [
+      "모자",
+      "직접"
+     ],
+     "sentence": 6
+    },
+    {
+     "q": "몸이 아픈 사람은 스키를 타지 않는 것이 좋아요.",
+     "en": "Sick people should not ski.",
+     "type": "tf",
+     "options": null,
+     "answer": true,
+     "words": [
+      "안전"
+     ],
+     "sentence": 11
+    },
+    {
+     "q": "날씨가 나빠도 여행 계획은 바뀌지 않아요.",
+     "en": "Even in bad weather the trip plan will not change.",
+     "type": "tf",
+     "options": null,
+     "answer": false,
+     "words": [
+      "예정"
+     ],
+     "sentence": 12
+    }
+   ]
+  },
+  {
+   "id": "p0065",
+   "lv": "A2",
+   "title": "저녁 손님",
+   "oop": {},
+   "names": [],
+   "sentences": [
+    [
+     "어제 오후에 남동생에게서 문자가 왔어요.",
+     "Yesterday afternoon I got a text from my younger brother."
+    ],
+    [
+     "\"누나, 오늘 저녁에 뭐 해?\"",
+     "\"Sis, what are you doing this evening?\""
+    ],
+    [
+     "저는 \"집에서 쉴 거야. 왜?\" 하고 말했어요.",
+     "I said, \"I'll rest at home. Why?\""
+    ],
+    [
+     "동생은 \"내 친구들이 우리 집에 오고 싶대.\" 하고 썼어요.",
+     "He wrote, \"My friends want to come to our place.\""
+    ],
+    [
+     "\"몇 명이 와?\" \"네 명. 같이 저녁 먹을 거야.\"",
+     "\"How many are coming?\" \"Four. We'll have dinner together.\""
+    ],
+    [
+     "저는 조금 놀랐지만 \"좋아.\" 하고 대답했어요.",
+     "I was a little surprised but answered, \"Fine.\""
+    ],
+    [
+     "동생이 \"음식 좀 도와줄 수 있어?\" 하고 부탁했어요.",
+     "My brother asked, \"Can you help with the food?\""
+    ],
+    [
+     "\"그래, 내가 생선 요리를 할게.\"",
+     "\"Sure, I'll make the fish dish.\""
+    ],
+    [
+     "\"그럼 나는 빵이랑 과일을 준비할게.\"",
+     "\"Then I'll get the bread and fruit ready.\""
+    ],
+    [
+     "저는 일이 끝나고 바로 시장에 가서 생선을 샀어요.",
+     "After work I went straight to the market and bought fish."
+    ],
+    [
+     "집에 오니까 동생이 벌써 방을 닦고 있었어요.",
+     "When I got home, my brother was already wiping the room."
+    ],
+    [
+     "일곱 시에 동생 친구들이 왔어요.",
+     "At seven my brother's friends came."
+    ],
+    [
+     "우리는 같이 이야기하고 웃으면서 맛있게 먹었어요.",
+     "We talked and laughed together and ate happily."
+    ],
+    [
+     "친구들이 \"생선이 정말 맛있어요!\" 하고 말해 주었어요.",
+     "The friends said, \"The fish is really delicious!\""
+    ],
+    [
+     "오랜만에 형제가 함께 즐거운 저녁을 보냈어요.",
+     "After a long time we brothers and sisters spent a happy evening together."
+    ]
+   ],
+   "questions": [
+    {
+     "q": "동생은 문자로 무엇을 부탁했어요?",
+     "en": "What did the brother ask for in his text?",
+     "type": "mc",
+     "options": [
+      "돈을 빌려 달라고",
+      "방을 닦아 달라고",
+      "음식을 도와 달라고",
+      "시장에 가 달라고"
+     ],
+     "answer": 2,
+     "words": [
+      "부탁하다"
+     ],
+     "sentence": 6
+    },
+    {
+     "q": "동생의 친구들은 다섯 명 왔어요.",
+     "en": "Five of the brother's friends came.",
+     "type": "tf",
+     "options": null,
+     "answer": false,
+     "words": [
+      "명"
+     ],
+     "sentence": 4
+    },
+    {
+     "q": "저는 어떤 음식을 만들기로 했어요?",
+     "en": "What food did I decide to make?",
+     "type": "mc",
+     "options": [
+      "빵과 과일",
+      "생선 요리",
+      "닭 요리",
+      "고기 요리"
+     ],
+     "answer": 1,
+     "words": [
+      "생선"
+     ],
+     "sentence": 7
+    },
+    {
+     "q": "제가 집에 왔을 때 동생은 방을 닦고 있었어요.",
+     "en": "When I got home, my brother was wiping the room.",
+     "type": "tf",
+     "options": null,
+     "answer": true,
+     "words": [
+      "닦다"
+     ],
+     "sentence": 10
+    },
+    {
+     "q": "동생의 친구들은 음식이 맛있다고 했어요.",
+     "en": "The brother's friends said the food was good.",
+     "type": "tf",
+     "options": null,
+     "answer": true,
+     "words": [
+      "맛있다"
+     ],
+     "sentence": 13
+    }
+   ]
+  },
+  {
+   "id": "p0066",
+   "lv": "A2",
+   "title": "내일 폭풍이 옵니다",
+   "oop": {},
+   "names": [],
+   "sentences": [
+    [
+     "내일 아침부터 우리나라 전체에 폭풍이 오겠습니다.",
+     "From tomorrow morning a storm will hit the whole country."
+    ],
+    [
+     "오늘 오후부터 하늘에 구름이 점점 늘고 있습니다.",
+     "Since this afternoon there have been more and more clouds in the sky."
+    ],
+    [
+     "오늘 밤에도 바람이 조금 불겠습니다.",
+     "The wind will also blow a little tonight."
+    ],
+    [
+     "바람은 내일 낮에 가장 강하겠습니다.",
+     "The wind will be strongest tomorrow at midday."
+    ],
+    [
+     "바다에서 가까운 지역에서는 바람이 특히 강하겠습니다.",
+     "In areas close to the sea the wind will be especially strong."
+    ],
+    [
+     "비도 하루 내내 많이 내리겠습니다.",
+     "It will also rain heavily all day long."
+    ],
+    [
+     "어떤 곳에서는 도로가 막힐 수 있습니다.",
+     "In some places the roads may be blocked."
+    ],
+    [
+     "내일은 가능하면 밖에 나가지 마십시오.",
+     "Tomorrow please do not go outside if possible."
+    ],
+    [
+     "꼭 나가야 하는 분은 천천히 조심해서 걸으십시오.",
+     "If you must go out, walk slowly and carefully."
+    ],
+    [
+     "높은 건물 근처나 나무 아래에는 가지 마십시오.",
+     "Do not go near tall buildings or under trees."
+    ],
+    [
+     "학교와 회사는 내일 하루 쉬는 곳이 많습니다.",
+     "Many schools and companies will close for the day tomorrow."
+    ],
+    [
+     "차를 가지고 가는 분은 속도를 천천히 하십시오.",
+     "If you are driving, keep your speed down."
+    ],
+    [
+     "집에서는 창문을 잘 닫고 물과 먹을 것을 준비하십시오.",
+     "At home, close the windows well and prepare water and food."
+    ],
+    [
+     "휴대폰 배터리도 확인해 두십시오.",
+     "Check your phone battery too."
+    ],
+    [
+     "폭풍은 모레 아침에 지나가겠습니다.",
+     "The storm will pass the morning after tomorrow."
+    ],
+    [
+     "바람이 약해질 때까지 집에서 기다리는 것이 좋습니다.",
+     "It is best to wait at home until the wind weakens."
+    ],
+    [
+     "안전이 가장 중요합니다.",
+     "Safety is the most important thing."
+    ],
+    [
+     "다음 소식은 내일 아침 여섯 시에 전해 드리겠습니다.",
+     "We will bring you the next news at six tomorrow morning."
+    ]
+   ],
+   "questions": [
+    {
+     "q": "바람은 언제 가장 강해요?",
+     "en": "When will the wind be strongest?",
+     "type": "mc",
+     "options": [
+      "내일 낮",
+      "오늘 밤",
+      "내일 저녁",
+      "모레 아침"
+     ],
+     "answer": 0,
+     "words": [
+      "강하다"
+     ],
+     "sentence": 3
+    },
+    {
+     "q": "오늘 오후에는 하늘에 구름이 없어요.",
+     "en": "There are no clouds in the sky this afternoon.",
+     "type": "tf",
+     "options": null,
+     "answer": false,
+     "words": [
+      "구름"
+     ],
+     "sentence": 1
+    },
+    {
+     "q": "폭풍 때문에 도로가 막힐 수도 있어요.",
+     "en": "Roads may be blocked because of the storm.",
+     "type": "tf",
+     "options": null,
+     "answer": true,
+     "words": [
+      "도로"
+     ],
+     "sentence": 6
+    },
+    {
+     "q": "차를 가지고 가는 사람은 어떻게 해야 해요?",
+     "en": "What should people who drive do?",
+     "type": "mc",
+     "options": [
+      "일찍 출발해야 해요",
+      "창문을 열어야 해요",
+      "차를 닦아야 해요",
+      "속도를 천천히 해야 해요"
+     ],
+     "answer": 3,
+     "words": [
+      "속도"
+     ],
+     "sentence": 11
+    },
+    {
+     "q": "폭풍은 내일 저녁에 지나갈 거예요.",
+     "en": "The storm will pass tomorrow evening.",
+     "type": "tf",
+     "options": null,
+     "answer": false,
+     "words": [
+      "지나가다"
+     ],
+     "sentence": 14
+    }
+   ]
+  },
+  {
+   "id": "p0067",
+   "lv": "A2",
+   "title": "간호사 이야기",
+   "oop": {},
+   "names": [],
+   "sentences": [
+    [
+     "오늘은 십오 년 동안 병원에서 일한 간호사를 만났습니다.",
+     "Today I met a nurse who has worked in a hospital for fifteen years."
+    ],
+    [
+     "먼저 이 직업을 고른 이유를 물었습니다.",
+     "First I asked why the nurse chose this job."
+    ],
+    [
+     "간호사는 \"어릴 때 많이 아팠는데 그때 간호사가 저를 도와줬어요.\" 하고 말했습니다.",
+     "The nurse said, \"I was often sick as a child, and a nurse helped me then.\""
+    ],
+    [
+     "\"그 도움이 너무 고마워서 저도 같은 일을 하고 싶었어요.\"",
+     "\"I was so grateful for that help that I wanted to do the same work.\""
+    ],
+    [
+     "다음으로 일하는 시간에 대해 물었습니다.",
+     "Next I asked about working hours."
+    ],
+    [
+     "\"아침 일곱 시에 시작해서 저녁 일곱 시까지 일해요.\"",
+     "\"I start at seven in the morning and work until seven in the evening.\""
+    ],
+    [
+     "\"밤에 일하는 날도 있어서 몸이 많이 힘들어요.\"",
+     "\"There are also days when I work at night, so it is hard on my body.\""
+    ],
+    [
+     "\"특히 어깨와 다리가 자주 아파요.\"",
+     "\"My shoulders and legs hurt often.\""
+    ],
+    [
+     "\"그래도 환자가 건강해져서 집에 갈 때는 정말 기뻐요.\"",
+     "\"Still, I am truly happy when a patient gets well and goes home.\""
+    ],
+    [
+     "마지막으로 이 일을 하는 사람에게 필요한 것을 물었습니다.",
+     "Finally I asked what a person in this job needs."
+    ],
+    [
+     "\"첫째는 조심하는 마음이에요. 작은 실수도 큰 문제가 될 수 있거든요.\"",
+     "\"The first is a careful mind. Even a small mistake can become a big problem.\""
+    ],
+    [
+     "\"둘째는 사람들을 좋아하는 마음이에요.\"",
+     "\"The second is liking people.\""
+    ],
+    [
+     "\"그리고 쉬는 시간에는 잘 쉬고 운동도 해야 해요.\"",
+     "\"And in your free time you must rest well and exercise too.\""
+    ],
+    [
+     "쉬는 날에는 무엇을 하는지 물었습니다.",
+     "I also asked what the nurse does on days off."
+    ],
+    [
+     "\"휴가에는 산에서 걷고 사진을 찍어요.\"",
+     "\"On holiday I walk in the mountains and take photos.\""
+    ],
+    [
+     "저는 간호사에게서 일에 대한 사랑을 배웠습니다.",
+     "I learned from the nurse what it means to love one's work."
+    ]
+   ],
+   "questions": [
+    {
+     "q": "간호사는 왜 이 직업을 골랐어요?",
+     "en": "Why did the nurse choose this job?",
+     "type": "mc",
+     "options": [
+      "돈을 많이 벌 수 있어서",
+      "부모님도 간호사라서",
+      "집에서 가까워서",
+      "어릴 때 간호사의 도움을 받아서"
+     ],
+     "answer": 3,
+     "words": [
+      "도움"
+     ],
+     "sentence": 3
+    },
+    {
+     "q": "간호사는 낮에만 일해요.",
+     "en": "The nurse works only in the daytime.",
+     "type": "tf",
+     "options": null,
+     "answer": false,
+     "words": [
+      "밤"
+     ],
+     "sentence": 6
+    },
+    {
+     "q": "간호사는 어디가 자주 아파요?",
+     "en": "What often hurts the nurse?",
+     "type": "mc",
+     "options": [
+      "눈과 귀",
+      "목과 머리",
+      "다리와 어깨",
+      "손과 발"
+     ],
+     "answer": 2,
+     "words": [
+      "어깨"
+     ],
+     "sentence": 7
+    },
+    {
+     "q": "간호사는 환자가 집에 갈 때 기뻐요.",
+     "en": "The nurse is happy when a patient goes home.",
+     "type": "tf",
+     "options": null,
+     "answer": true,
+     "words": [
+      "환자"
+     ],
+     "sentence": 8
+    },
+    {
+     "q": "간호사는 휴가에 산에서 걸어요.",
+     "en": "The nurse walks in the mountains on holiday.",
+     "type": "tf",
+     "options": null,
+     "answer": true,
+     "words": [
+      "휴가"
+     ],
+     "sentence": 14
+    }
+   ]
+  },
+  {
+   "id": "p0068",
+   "lv": "A2",
+   "title": "회의 자료를 보냅니다",
+   "oop": {
+    "박": "name (Hangul has no capitals: declared so it is not counted)",
+    "김지원": "name (Hangul has no capitals: declared so it is not counted)"
+   },
+   "names": [
+    "박",
+    "김지원"
+   ],
+   "sentences": [
+    [
+     "안녕하세요, 박 선생님.",
+     "Hello, Mr. Park."
+    ],
+    [
+     "지난주에 말씀드린 회의 자료를 보냅니다.",
+     "I am sending the meeting materials I mentioned last week."
+    ],
+    [
+     "파일은 모두 세 개이고 이 이메일에 붙어 있습니다.",
+     "There are three files in all, attached to this email."
+    ],
+    [
+     "하나는 고객들의 이름과 전화를 쓴 표입니다.",
+     "One is a table where I wrote the customers' names and phone numbers."
+    ],
+    [
+     "또 하나는 올해의 변화를 쓴 글입니다.",
+     "Another is a text about this year's changes."
+    ],
+    [
+     "마지막 하나는 회의 날짜가 있는 표입니다.",
+     "The last one is a table with the meeting dates."
+    ],
+    [
+     "그런데 제가 어제 중요한 날짜를 잘못 썼습니다.",
+     "But yesterday I wrote an important date wrong."
+    ],
+    [
+     "회의는 목요일이 아니라 금요일입니다.",
+     "The meeting is on Friday, not Thursday."
+    ],
+    [
+     "정말 죄송합니다. 다시 사과합니다.",
+     "I am truly sorry. I apologize again."
+    ],
+    [
+     "금요일 오후 두 시에 삼 층 큰 방에서 만납니다.",
+     "We meet on Friday at two in the afternoon in the big room on the third floor."
+    ],
+    [
+     "그 시간이 어려우시면 말씀해 주십시오.",
+     "If that time is difficult for you, please tell me."
+    ],
+    [
+     "다른 날짜를 같이 찾아보겠습니다.",
+     "We will look for another date together."
+    ],
+    [
+     "파일을 열 때 문제가 있으면 바로 전화해 주십시오.",
+     "If there is a problem opening the files, please call me right away."
+    ],
+    [
+     "급한 일이 있으면 제 전화로 연락하셔도 됩니다.",
+     "If it is urgent, you may also reach me by phone."
+    ],
+    [
+     "서두르지 않으셔도 되지만 수요일까지 읽어 주시면 감사하겠습니다.",
+     "There is no need to hurry, but I would be grateful if you read them by Wednesday."
+    ],
+    [
+     "그럼 금요일에 만나겠습니다.",
+     "Then I will see you on Friday."
+    ],
+    [
+     "김지원",
+     "Kim Jiwon"
+    ]
+   ],
+   "questions": [
+    {
+     "q": "이 이메일은 무엇에 대한 거예요?",
+     "en": "What is this email about?",
+     "type": "mc",
+     "options": [
+      "친구와 하는 여행 계획",
+      "회의에 쓸 자료",
+      "새로 온 직원 이야기",
+      "여름 휴가 계획 이야기"
+     ],
+     "answer": 1,
+     "words": [
+      "자료"
+     ],
+     "sentence": 1
+    },
+    {
+     "q": "파일은 모두 두 개예요.",
+     "en": "There are two files in all.",
+     "type": "tf",
+     "options": null,
+     "answer": false,
+     "words": [
+      "파일"
+     ],
+     "sentence": 2
+    },
+    {
+     "q": "글을 쓴 사람은 날짜를 잘못 썼어요.",
+     "en": "The writer wrote a date wrong.",
+     "type": "tf",
+     "options": null,
+     "answer": true,
+     "words": [
+      "날짜",
+      "잘못"
+     ],
+     "sentence": 6
+    },
+    {
+     "q": "회의는 몇 시에 해요?",
+     "en": "What time is the meeting?",
+     "type": "mc",
+     "options": [
+      "오후 두 시",
+      "오전 열 시",
+      "오후 네 시",
+      "저녁 여섯 시"
+     ],
+     "answer": 0,
+     "words": [
+      "오후"
+     ],
+     "sentence": 9
+    },
+    {
+     "q": "글을 쓴 사람은 바로 오늘 읽어 달라고 했어요.",
+     "en": "The writer asked the reader to read them today.",
+     "type": "tf",
+     "options": null,
+     "answer": false,
+     "words": [
+      "서두르다"
+     ],
+     "sentence": 14
+    }
+   ]
+  },
+  {
+   "id": "p0069",
+   "lv": "A2",
+   "title": "숲으로 간 일요일",
+   "oop": {},
+   "names": [],
+   "sentences": [
+    [
+     "지난 일요일에 저는 친구 두 명과 함께 숲에 갔어요.",
+     "Last Sunday I went to the forest with two friends."
+    ],
+    [
+     "우리 집 북쪽에는 큰 숲이 있어요.",
+     "There is a big forest to the north of our house."
+    ],
+    [
+     "아침 아홉 시에 만나서 버스를 타고 갔어요.",
+     "We met at nine in the morning and went by bus."
+    ],
+    [
+     "숲 앞에서 우리는 지도를 보고 길을 골랐어요.",
+     "In front of the forest we looked at the map and chose a path."
+    ],
+    [
+     "지도에는 길이 세 개 있었어요.",
+     "There were three paths on the map."
+    ],
+    [
+     "우리는 동쪽 길로 가기로 했어요.",
+     "We decided to take the east path."
+    ],
+    [
+     "처음에는 날씨가 좋았는데 한 시간쯤 걷자 구름이 나왔어요.",
+     "At first the weather was nice, but after about an hour of walking clouds appeared."
+    ],
+    [
+     "갑자기 길이 두 개 나와서 어느 방향으로 가야 할지 몰랐어요.",
+     "Suddenly there were two paths and we didn't know which way to go."
+    ],
+    [
+     "한 친구가 나무에 붙은 작은 표시를 찾았어요.",
+     "One friend found a small mark on a tree."
+    ],
+    [
+     "\"이쪽이야! 빨간 줄이 있어!\"",
+     "\"This way! There's a red line!\""
+    ],
+    [
+     "우리는 빨간 표시를 보면서 걸었어요.",
+     "We walked looking at the red marks."
+    ],
+    [
+     "작은 길 옆으로 차가운 물이 흐르고 있었어요.",
+     "Cold water was flowing beside the small path."
+    ],
+    [
+     "우리는 앉아서 빵을 한 조각씩 먹었어요.",
+     "We sat down and ate a piece of bread each."
+    ],
+    [
+     "새 소리를 들으니 마음이 편해졌어요.",
+     "Listening to the birds made me feel at ease."
+    ],
+    [
+     "오후 세 시에 다시 버스 타는 곳에 도착했어요.",
+     "We got back to the place where we took the bus at three in the afternoon."
+    ],
+    [
+     "다리는 아팠지만 정말 즐거운 하루였어요.",
+     "My legs hurt, but it was a really enjoyable day."
+    ]
+   ],
+   "questions": [
+    {
+     "q": "친구들은 어느 쪽 길로 가기로 했어요?",
+     "en": "Which path did the friends decide to take?",
+     "type": "mc",
+     "options": [
+      "동쪽",
+      "북쪽",
+      "서쪽",
+      "남쪽"
+     ],
+     "answer": 0,
+     "words": [
+      "동쪽"
+     ],
+     "sentence": 5
+    },
+    {
+     "q": "한 시간쯤 걷자 하늘에 구름이 나왔어요.",
+     "en": "After about an hour of walking, clouds appeared in the sky.",
+     "type": "tf",
+     "options": null,
+     "answer": true,
+     "words": [
+      "구름"
+     ],
+     "sentence": 6
+    },
+    {
+     "q": "친구들은 어떻게 길을 찾았어요?",
+     "en": "How did the friends find their way?",
+     "type": "mc",
+     "options": [
+      "지도를 다시 봤어요",
+      "사람에게 물어봤어요",
+      "아무 길로나 갔어요",
+      "나무의 표시를 보고 갔어요"
+     ],
+     "answer": 3,
+     "words": [
+      "표시"
+     ],
+     "sentence": 8
+    },
+    {
+     "q": "길 옆에서 물이 흐르고 있었어요.",
+     "en": "Water was flowing beside the path.",
+     "type": "tf",
+     "options": null,
+     "answer": true,
+     "words": [
+      "흐르다"
+     ],
+     "sentence": 11
+    },
+    {
+     "q": "세 사람은 빵을 한 개씩 먹었어요.",
+     "en": "The three people each ate one whole loaf.",
+     "type": "tf",
+     "options": null,
+     "answer": false,
+     "words": [
+      "조각"
+     ],
+     "sentence": 12
+    }
+   ]
+  },
+  {
+   "id": "p0070",
+   "lv": "A2",
+   "title": "테니스 연습",
+   "oop": {},
+   "names": [],
+   "sentences": [
+    [
+     "오늘은 처음으로 테니스를 연습한 날이었어요.",
+     "Today was the day I practised tennis for the first time."
+    ],
+    [
+     "한 달 전에 친구가 \"같이 테니스 해 볼래?\" 하고 물었어요.",
+     "A month ago a friend asked, \"Want to try tennis together?\""
+    ],
+    [
+     "저는 한 번도 해 본 적이 없지만 좋다고 했어요.",
+     "I had never played, but I said yes."
+    ],
+    [
+     "오늘 아침 여덟 시에 공원에서 만났어요.",
+     "This morning at eight we met in the park."
+    ],
+    [
+     "선생님이 먼저 공을 치는 방법을 보여 주셨어요.",
+     "The teacher first showed us how to hit the ball."
+    ],
+    [
+     "저는 따라 해 봤지만 공이 자꾸 다른 곳으로 날아갔어요.",
+     "I tried to copy it, but the ball kept flying somewhere else."
+    ],
+    [
+     "선생님이 \"팔을 더 길게 쓰세요.\" 하고 말했어요.",
+     "The teacher said, \"Use your arm more fully.\""
+    ],
+    [
+     "한 시간 후에는 공이 조금씩 앞으로 갔어요.",
+     "After an hour the ball started going forward a little."
+    ],
+    [
+     "손이 아프고 어깨도 아팠지만 재미있었어요.",
+     "My hands and shoulders hurt, but it was fun."
+    ],
+    [
+     "연습이 끝난 뒤에 친구와 물을 마셨어요.",
+     "After practice I drank water with my friend."
+    ],
+    [
+     "친구는 저보다 실력이 훨씬 좋아요.",
+     "My friend is much better than me."
+    ],
+    [
+     "대학교 때 이 년 동안 연습했대요.",
+     "They say my friend practised for two years in university."
+    ],
+    [
+     "저도 노력하면 친구처럼 칠 수 있을까요?",
+     "If I make an effort, can I hit like my friend?"
+    ],
+    [
+     "제 목표는 세 달 후에 친구와 경기하는 거예요.",
+     "My goal is to play a match with my friend in three months."
+    ],
+    [
+     "일주일에 두 번 연습할 거예요.",
+     "I will practise twice a week."
+    ],
+    [
+     "내일은 팔이 많이 아플 것 같아요.",
+     "My arm will probably hurt a lot tomorrow."
+    ]
+   ],
+   "questions": [
+    {
+     "q": "친구는 일 년 전에 같이 테니스를 하자고 했어요.",
+     "en": "The friend suggested playing tennis together a year ago.",
+     "type": "tf",
+     "options": null,
+     "answer": false,
+     "words": [
+      "테니스"
+     ],
+     "sentence": 1
+    },
+    {
+     "q": "선생님은 무엇을 말했어요?",
+     "en": "What did the teacher say?",
+     "type": "mc",
+     "options": [
+      "더 빨리 가라고",
+      "공을 보지 말라고",
+      "팔을 더 길게 쓰라고",
+      "더 크게 소리 내라고"
+     ],
+     "answer": 2,
+     "words": [
+      "팔"
+     ],
+     "sentence": 6
+    },
+    {
+     "q": "친구는 저보다 실력이 좋아요.",
+     "en": "My friend is better than me.",
+     "type": "tf",
+     "options": null,
+     "answer": true,
+     "words": [
+      "실력"
+     ],
+     "sentence": 10
+    },
+    {
+     "q": "제 목표는 뭐예요?",
+     "en": "What is my goal?",
+     "type": "mc",
+     "options": [
+      "한 달 후에 선생님이 되기",
+      "세 달 후에 친구와 경기하기",
+      "다음 주에 테니스 사기",
+      "내년에 대학 가기"
+     ],
+     "answer": 1,
+     "words": [
+      "목표",
+      "경기"
+     ],
+     "sentence": 13
+    },
+    {
+     "q": "저는 일주일에 한 번 연습할 거예요.",
+     "en": "I will practise once a week.",
+     "type": "tf",
+     "options": null,
+     "answer": false,
+     "words": [
+      "일주일"
+     ],
+     "sentence": 14
+    }
+   ]
+  },
+  {
+   "id": "p0071",
+   "lv": "B1",
+   "title": "작가와의 대화",
+   "oop": {},
+   "names": [],
+   "sentences": [
+    [
+     "오늘은 올해 첫 소설을 낸 젊은 작가를 만나 이야기를 들었습니다.",
+     "Today I met a young writer who published a first novel this year and listened to the story."
+    ],
+    [
+     "먼저 소설을 쓰게 된 이유를 물었습니다.",
+     "First I asked why the writer came to write the novel."
+    ],
+    [
+     "작가는 \"삼 년 전에 할머니와 함께 살았는데, 그때 들은 이야기가 기억나서 쓰기 시작했어요.\" 하고 대답했습니다.",
+     "The writer answered, \"Three years ago I lived with my grandmother, and I started writing because I remembered the stories I heard then.\""
+    ],
+    [
+     "\"할머니는 옛날에 살던 마을 이야기를 자주 해 주셨어요.\"",
+     "\"My grandmother often told me stories about the village where she used to live.\""
+    ],
+    [
+     "\"저는 그 이야기가 사라지는 것이 안타까웠어요.\"",
+     "\"I felt sorry that those stories would disappear.\""
+    ],
+    [
+     "다음으로 글을 쓰는 방식에 대해 물었습니다.",
+     "Next I asked about the way the writer writes."
+    ],
+    [
+     "\"저는 아침에 세 시간 동안만 써요. 그 이상은 머리가 잘 움직이지 않아요.\"",
+     "\"I write for only three hours in the morning. Beyond that my head doesn't work well.\""
+    ],
+    [
+     "\"처음에는 하루에 열 시간씩 쓰려고 했지만 좋은 문장이 나오지 않았어요.\"",
+     "\"At first I tried to write ten hours a day, but good sentences didn't come.\""
+    ],
+    [
+     "\"가장 어려운 것은 생각을 정확한 말로 표현하는 일이에요.\"",
+     "\"The hardest thing is to express a thought in exact words.\""
+    ],
+    [
+     "\"그래서 한 문장을 몇 번이나 고치기도 해요.\"",
+     "\"So I sometimes fix a single sentence many times.\""
+    ],
+    [
+     "대화 중에 작가가 가장 오래 이야기한 것은 언어였습니다.",
+     "What the writer talked about longest in our conversation was language."
+    ],
+    [
+     "\"같은 말도 사람마다 다르게 느낄 수 있어서 저는 쉬운 말을 쓰려고 해요.\"",
+     "\"The same words can feel different to each person, so I try to use easy words.\""
+    ],
+    [
+     "\"어려운 말보다 쉬운 말이 더 큰 힘을 가질 때가 많거든요.\"",
+     "\"Easy words often have more power than difficult ones.\""
+    ],
+    [
+     "\"바쁜 하루 중에도 십 분만 책을 읽어 보세요.\"",
+     "\"Even in a busy day, try reading a book for just ten minutes.\""
+    ],
+    [
+     "\"그 시간이 여러분의 생각을 조금씩 바꿀 수 있을 거예요.\"",
+     "\"That time can slowly change your thoughts.\""
+    ],
+    [
+     "작가는 지금 다음 소설을 준비하고 있다고 합니다.",
+     "The writer says they are now preparing the next novel."
+    ]
+   ],
+   "questions": [
+    {
+     "q": "작가는 왜 소설을 쓰기 시작했어요?",
+     "en": "Why did the writer start writing the novel?",
+     "type": "mc",
+     "options": [
+      "학교 숙제로 내야 해서",
+      "할머니에게 들은 이야기가 기억나서",
+      "친구가 같이 쓰자고 해서",
+      "돈이 많이 필요해서"
+     ],
+     "answer": 1,
+     "words": [
+      "시작하다"
+     ],
+     "sentence": 2
+    },
+    {
+     "q": "작가는 하루 종일 글을 써요.",
+     "en": "The writer writes all day.",
+     "type": "tf",
+     "options": null,
+     "answer": false,
+     "words": [
+      "동안"
+     ],
+     "sentence": 6
+    },
+    {
+     "q": "작가는 무엇이 가장 어렵다고 했어요?",
+     "en": "What did the writer say is hardest?",
+     "type": "mc",
+     "options": [
+      "생각을 정확히 나타내는 일",
+      "쓸 이야기를 찾는 일",
+      "책을 파는 일",
+      "시간을 만드는 일"
+     ],
+     "answer": 0,
+     "words": [
+      "표현하다",
+      "정확하다"
+     ],
+     "sentence": 8
+    },
+    {
+     "q": "작가는 쉬운 말을 쓰려고 해요.",
+     "en": "The writer tries to use easy words.",
+     "type": "tf",
+     "options": null,
+     "answer": true,
+     "words": [
+      "쉽다"
+     ],
+     "sentence": 11
+    },
+    {
+     "q": "작가는 다음 소설을 벌써 다 썼어요.",
+     "en": "The writer has already finished the next novel.",
+     "type": "tf",
+     "options": null,
+     "answer": false,
+     "words": [
+      "준비하다"
+     ],
+     "sentence": 15
+    }
+   ]
+  },
+  {
+   "id": "p0072",
+   "lv": "B1",
+   "title": "새 동물원이 문을 엽니다",
+   "oop": {},
+   "names": [],
+   "sentences": [
+    [
+     "다음 달 오 일에 우리 시에 큰 동물원이 새로 문을 엽니다.",
+     "On the fifth of next month a big new zoo opens in our city."
+    ],
+    [
+     "이 동물원은 시내에서 가까운 호수 옆에 있습니다.",
+     "The zoo is next to a lake close to the city centre."
+    ],
+    [
+     "규모는 이 지역의 어느 동물원보다 큽니다.",
+     "In size it is bigger than any zoo in this area."
+    ],
+    [
+     "이곳에는 사자와 원숭이를 포함해 여러 종류의 동물이 삽니다.",
+     "Many kinds of animals live here, including lions and monkeys."
+    ],
+    [
+     "아이들이 가까이에서 볼 수 있도록 동물이 있는 곳의 벽을 낮게 만들었다고 합니다.",
+     "They say the walls around the animals were built low so that children can see up close."
+    ],
+    [
+     "가장 인기가 많은 곳은 물고기가 있는 큰 방입니다.",
+     "The most popular place is the big room with fish."
+    ],
+    [
+     "사람들은 유리로 된 길을 걸으며 머리 위로 지나가는 물고기를 볼 수 있습니다.",
+     "People can walk on a glass path and see the fish passing over their heads."
+    ],
+    [
+     "문을 연 첫 일주일 동안은 누구나 무료로 들어갈 수 있습니다.",
+     "For the first week after opening, anyone can get in free of charge."
+    ],
+    [
+     "일주일 후에는 어른 만 원, 어린이 오천 원을 내야 합니다.",
+     "After that, adults pay ten thousand won and children five thousand."
+    ],
+    [
+     "표는 인터넷으로 미리 살 수 있습니다.",
+     "Tickets can be bought in advance on the internet."
+    ],
+    [
+     "동물원은 매일 아침 아홉 시부터 저녁 여섯 시까지 열립니다.",
+     "The zoo is open every day from nine in the morning to six in the evening."
+    ],
+    [
+     "월요일에는 동물을 쉬게 하기 위해 문을 닫습니다.",
+     "On Mondays it is closed to let the animals rest."
+    ],
+    [
+     "동물에게 음식을 주는 것과 큰 소리를 내는 것은 금지입니다.",
+     "Feeding the animals and making loud noises are not allowed."
+    ],
+    [
+     "방문하는 분들은 쓰레기를 꼭 가지고 나가 주십시오.",
+     "Visitors, please take your trash with you."
+    ],
+    [
+     "시에서는 첫 일주일 동안 하루에 오천 명쯤 올 것으로 예상하고 있습니다.",
+     "The city expects about five thousand people a day in the first week."
+    ],
+    [
+     "사람이 너무 많으면 문 앞에서 기다려야 할 수도 있습니다.",
+     "If there are too many people, you may have to wait at the gate."
+    ]
+   ],
+   "questions": [
+    {
+     "q": "동물원은 어디에 있어요?",
+     "en": "Where is the zoo?",
+     "type": "mc",
+     "options": [
+      "산 위",
+      "바다 가까이",
+      "시장 뒤",
+      "호수 근처"
+     ],
+     "answer": 3,
+     "words": [
+      "호수"
+     ],
+     "sentence": 1
+    },
+    {
+     "q": "처음 일주일 동안은 돈을 내지 않아도 돼요.",
+     "en": "You don't have to pay during the first week.",
+     "type": "tf",
+     "options": null,
+     "answer": true,
+     "words": [
+      "무료"
+     ],
+     "sentence": 7
+    },
+    {
+     "q": "가장 인기가 많은 곳은 어디예요?",
+     "en": "What is the most popular place?",
+     "type": "mc",
+     "options": [
+      "사자가 사는 곳",
+      "호수 옆의 길",
+      "물고기가 있는 곳",
+      "원숭이가 사는 집"
+     ],
+     "answer": 2,
+     "words": [
+      "인기"
+     ],
+     "sentence": 5
+    },
+    {
+     "q": "동물원은 월요일에 문을 닫아요.",
+     "en": "The zoo is closed on Mondays.",
+     "type": "tf",
+     "options": null,
+     "answer": true,
+     "words": [
+      "월요일"
+     ],
+     "sentence": 11
+    },
+    {
+     "q": "동물에게 음식을 줘도 괜찮아요.",
+     "en": "It is fine to feed the animals.",
+     "type": "tf",
+     "options": null,
+     "answer": false,
+     "words": [
+      "금지"
+     ],
+     "sentence": 12
+    }
+   ]
+  },
+  {
+   "id": "p0073",
+   "lv": "B1",
+   "title": "새 컴퓨터가 움직이지 않아요",
+   "oop": {
+    "한소라": "name (Hangul has no capitals: declared so it is not counted)"
+   },
+   "names": [
+    "한소라"
+   ],
+   "sentences": [
+    [
+     "안녕하십니까? 지난주 월요일에 컴퓨터를 산 한소라입니다.",
+     "Hello. I am Han Sora, who bought a computer last Monday."
+    ],
+    [
+     "제품은 약속한 날짜보다 이틀 빨리 도착했습니다.",
+     "The product arrived two days earlier than the promised date."
+    ],
+    [
+     "그런데 처음 사용하는 날부터 문제가 있었습니다.",
+     "But there was a problem from the very first day I used it."
+    ],
+    [
+     "버튼을 눌러도 불이 들어오지 않고 소리만 났습니다.",
+     "Even when I pressed the button, no light came on and there was only a noise."
+    ],
+    [
+     "사용 방법을 몇 번이나 읽어 보았지만 원인을 알 수 없었습니다.",
+     "I read the instructions several times but could not find the cause."
+    ],
+    [
+     "그래서 사진과 영상을 찍어 이 이메일과 함께 보냅니다.",
+     "So I took photos and a video and am sending them with this email."
+    ],
+    [
+     "제 생각에는 처음부터 고장이 났던 것 같습니다.",
+     "I think it was broken from the start."
+    ],
+    [
+     "새 제품으로 바꿔 주시기를 요구합니다.",
+     "I ask you to exchange it for a new product."
+    ],
+    [
+     "바꾸는 데 드는 비용을 제가 내는 것은 부담이 됩니다.",
+     "Paying the cost of the exchange myself would be a burden."
+    ],
+    [
+     "얼마 전에 다른 가게에서도 비슷한 일이 있었는데 그때는 바로 돈을 돌려 주었습니다.",
+     "Not long ago something similar happened at another shop, and they gave my money back right away."
+    ],
+    [
+     "저는 이 컴퓨터를 한 달 동안 기다렸습니다.",
+     "I waited a month for this computer."
+    ],
+    [
+     "아이 숙제와 제 일에 꼭 필요하기 때문에 더 늦게 받고 싶지 않습니다.",
+     "It is really needed for my child's homework and my work, so I do not want to wait any longer."
+    ],
+    [
+     "오늘까지 답이 없으면 내일 다시 연락하겠습니다.",
+     "If there is no answer by today, I will contact you again tomorrow."
+    ],
+    [
+     "회사에서 이 문제를 어떻게 해결할지 알고 싶습니다.",
+     "I would like to know how your company will solve this problem."
+    ],
+    [
+     "읽어 주셔서 감사합니다.",
+     "Thank you for reading."
+    ]
+   ],
+   "questions": [
+    {
+     "q": "제품은 언제 도착했어요?",
+     "en": "When did the product arrive?",
+     "type": "mc",
+     "options": [
+      "약속한 날보다 이틀 늦었어요",
+      "약속한 날에 정확히 왔어요",
+      "약속한 날보다 이틀 빨랐어요",
+      "아직 오지 않았어요"
+     ],
+     "answer": 2,
+     "words": [
+      "날짜"
+     ],
+     "sentence": 1
+    },
+    {
+     "q": "버튼을 누르자 컴퓨터가 바로 움직였어요.",
+     "en": "The computer worked right after the button was pressed.",
+     "type": "tf",
+     "options": null,
+     "answer": false,
+     "words": [
+      "버튼"
+     ],
+     "sentence": 3
+    },
+    {
+     "q": "한소라는 문제를 사진과 영상으로 보여 주었어요.",
+     "en": "Han Sora showed the problem in photos and a video.",
+     "type": "tf",
+     "options": null,
+     "answer": true,
+     "words": [
+      "영상"
+     ],
+     "sentence": 5
+    },
+    {
+     "q": "한소라는 회사에 무엇을 요구했어요?",
+     "en": "What did Han Sora demand from the company?",
+     "type": "mc",
+     "options": [
+      "돈을 더 내라고",
+      "새 제품으로 바꿔 달라고",
+      "사용 방법을 보내 달라고",
+      "직원을 바꿔 달라고"
+     ],
+     "answer": 1,
+     "words": [
+      "요구하다"
+     ],
+     "sentence": 7
+    },
+    {
+     "q": "한소라는 바꾸는 비용을 내고 싶어 해요.",
+     "en": "Han Sora wants to pay the cost of the exchange.",
+     "type": "tf",
+     "options": null,
+     "answer": false,
+     "words": [
+      "비용"
+     ],
+     "sentence": 8
+    }
+   ]
+  },
+  {
+   "id": "p0074",
+   "lv": "B1",
+   "title": "로봇이 일하는 식당",
+   "oop": {},
+   "names": [],
+   "sentences": [
+    [
+     "지난 주말에 저는 로봇이 일하는 식당에 다녀왔습니다.",
+     "Last weekend I went to a restaurant where robots work."
+    ],
+    [
+     "뉴스에서 그 식당 이야기를 듣고 꼭 가 보고 싶었습니다.",
+     "I heard about the restaurant on the news and really wanted to go."
+    ],
+    [
+     "문 앞에서 작은 로봇이 인사를 했습니다.",
+     "A small robot greeted us at the door."
+    ],
+    [
+     "로봇은 우리를 자리까지 데려다 주었습니다.",
+     "The robot took us to our seats."
+    ],
+    [
+     "자리에는 사람 직원이 없었고 작은 기계만 있었습니다.",
+     "There was no human staff at the table, only a small machine."
+    ],
+    [
+     "먹고 싶은 음식을 고르고 기계의 버튼을 누르면 끝납니다.",
+     "You choose the food you want, press the button on the machine, and that's it."
+    ],
+    [
+     "고른 음식은 십 분쯤 후에 로봇이 가져왔습니다.",
+     "The robot brought the food we had chosen about ten minutes later."
+    ],
+    [
+     "로봇의 표정은 웃는 얼굴이어서 조금 귀여웠습니다.",
+     "The robot's expression was a smiling face, which was a little cute."
+    ],
+    [
+     "그런데 로봇은 사람의 말을 항상 정확하게 알아듣지는 못했습니다.",
+     "But the robot could not always understand people's words exactly."
+    ],
+    [
+     "제 친구가 \"물 좀 더 주세요.\" 하고 말했는데 로봇은 \"다시 말씀해 주세요.\"만 세 번 말했습니다.",
+     "My friend said, \"More water, please,\" but the robot only said \"Please say that again\" three times."
+    ],
+    [
+     "결국 친구는 기계의 버튼을 눌러서 물을 부탁했습니다.",
+     "In the end my friend pressed a button on the machine to ask for water."
+    ],
+    [
+     "음식은 평범한 맛이었지만 값은 다른 식당보다 조금 쌌습니다.",
+     "The food tasted ordinary, but the price was a little cheaper than other restaurants."
+    ],
+    [
+     "식당 주인은 직원이 필요 없어서 비용을 아낄 수 있다고 설명했습니다.",
+     "The owner explained that without staff they can cut costs."
+    ],
+    [
+     "하지만 저는 사람이 웃으면서 이야기해 주는 식당이 더 좋았습니다.",
+     "But I liked a restaurant where people talk to you with a smile better."
+    ],
+    [
+     "로봇이 편하긴 하지만 사람과 나누는 짧은 인사의 가치는 크다고 생각합니다.",
+     "Robots are convenient, but I think the value of a short greeting with a person is great."
+    ],
+    [
+     "다음에는 사람과 로봇이 같이 일하는 식당에도 가 보고 싶습니다.",
+     "Next time I'd like to go to a restaurant where people and robots work together."
+    ]
+   ],
+   "questions": [
+    {
+     "q": "음식은 누가 가져왔어요?",
+     "en": "Who brought the food?",
+     "type": "mc",
+     "options": [
+      "로봇",
+      "식당 주인",
+      "친구",
+      "사람 직원"
+     ],
+     "answer": 0,
+     "words": [
+      "음식"
+     ],
+     "sentence": 6
+    },
+    {
+     "q": "로봇은 사람의 말을 언제나 정확하게 알아들었어요.",
+     "en": "The robot always understood people exactly.",
+     "type": "tf",
+     "options": null,
+     "answer": false,
+     "words": [
+      "정확하다"
+     ],
+     "sentence": 8
+    },
+    {
+     "q": "친구는 어떻게 물을 부탁했어요?",
+     "en": "How did the friend ask for water?",
+     "type": "mc",
+     "options": [
+      "손을 들어 직원을 불러서",
+      "소리를 크게 질러서",
+      "로봇에게 다시 말해서",
+      "작은 기계에 있는 버튼으로"
+     ],
+     "answer": 3,
+     "words": [
+      "버튼",
+      "누르다"
+     ],
+     "sentence": 10
+    },
+    {
+     "q": "이 식당의 음식 값은 다른 식당보다 조금 쌌어요.",
+     "en": "The prices here were a little lower than at other restaurants.",
+     "type": "tf",
+     "options": null,
+     "answer": true,
+     "words": [
+      "싸다"
+     ],
+     "sentence": 11
+    },
+    {
+     "q": "글을 쓴 사람은 사람이 있는 식당이 더 좋았어요.",
+     "en": "The writer liked a restaurant with people better.",
+     "type": "tf",
+     "options": null,
+     "answer": true,
+     "words": [
+      "웃다"
+     ],
+     "sentence": 13
+    }
+   ]
+  },
+  {
+   "id": "p0075",
+   "lv": "B1",
+   "title": "아침마다 아픈 목",
+   "oop": {
+    "동수": "name (Hangul has no capitals: declared so it is not counted)"
+   },
+   "names": [
+    "동수"
+   ],
+   "sentences": [
+    [
+     "삼 주 전부터 동수는 아침에 일어날 때마다 목이 아팠습니다.",
+     "For three weeks Dongsu's neck had hurt every time he woke up in the morning."
+    ],
+    [
+     "처음에는 잠을 잘못 잤다고 생각했습니다.",
+     "At first he thought he had slept badly."
+    ],
+    [
+     "그런데 통증이 점점 심해져서 일에도 집중할 수 없게 되었습니다.",
+     "But the pain got worse and worse and he could not even focus on work."
+    ],
+    [
+     "결국 동수는 회사에 말하고 병원에 갔습니다.",
+     "In the end Dongsu told his company and went to the hospital."
+    ],
+    [
+     "의사는 먼저 어디가 어떻게 아픈지 물었습니다.",
+     "The doctor first asked where and how it hurt."
+    ],
+    [
+     "\"하루에 몇 시간 동안 컴퓨터 앞에 앉아 있어요?\"",
+     "\"How many hours a day do you sit in front of a computer?\""
+    ],
+    [
+     "\"거의 열 시간이요. 점심 먹을 때만 일어나요.\"",
+     "\"Almost ten hours. I only get up for lunch.\""
+    ],
+    [
+     "의사는 목 사진을 찍어 보자고 했습니다.",
+     "The doctor suggested taking a picture of his neck."
+    ],
+    [
+     "잠시 후 의사는 사진을 보며 \"다행히 큰 문제는 없어요.\"라고 말했습니다.",
+     "A moment later the doctor looked at the picture and said, \"Luckily there is no big problem.\""
+    ],
+    [
+     "\"원인은 오래 앉아 있는 습관이에요. 목 근육이 약해진 거죠.\"",
+     "\"The cause is the habit of sitting for a long time. Your neck muscles have weakened.\""
+    ],
+    [
+     "\"약은 일주일 동안만 드세요. 더 중요한 것은 생활을 바꾸는 거예요.\"",
+     "\"Take the medicine for just a week. What matters more is changing your daily life.\""
+    ],
+    [
+     "\"한 시간에 한 번은 꼭 일어나서 몇 분 걸으세요.\"",
+     "\"Once an hour, be sure to get up and walk for a few minutes.\""
+    ],
+    [
+     "\"집에서는 매일 이십 분씩 천천히 목을 움직여 주세요.\"",
+     "\"At home, move your neck slowly for twenty minutes every day.\""
+    ],
+    [
+     "동수는 의사의 말을 종이에 썼습니다.",
+     "Dongsu wrote down the doctor's words on a piece of paper."
+    ],
+    [
+     "그날 이후 동수는 컴퓨터가 한 시간마다 알려 주도록 맞춰 놓았습니다.",
+     "From that day on, Dongsu set his computer to remind him every hour."
+    ],
+    [
+     "소리가 울리면 일어나서 물을 마시러 갑니다.",
+     "When the sound rings, he gets up and goes to drink water."
+    ],
+    [
+     "한 달 후 통증은 거의 사라졌고, 동수는 이제 아침이 두렵지 않습니다.",
+     "A month later the pain had almost vanished, and Dongsu no longer dreads the mornings."
+    ]
+   ],
+   "questions": [
+    {
+     "q": "동수는 왜 병원에 갔어요?",
+     "en": "Why did Dongsu go to the hospital?",
+     "type": "mc",
+     "options": [
+      "회사가 병원에 가라고 해서",
+      "사진을 찍고 싶어서",
+      "약이 다 떨어져서",
+      "목이 점점 더 아파져서"
+     ],
+     "answer": 3,
+     "words": [
+      "통증"
+     ],
+     "sentence": 2
+    },
+    {
+     "q": "동수는 하루에 열 시간쯤 컴퓨터 앞에 앉아 있어요.",
+     "en": "Dongsu sits in front of a computer for about ten hours a day.",
+     "type": "tf",
+     "options": null,
+     "answer": true,
+     "words": [
+      "시간"
+     ],
+     "sentence": 6
+    },
+    {
+     "q": "의사는 통증의 원인이 무엇이라고 했어요?",
+     "en": "What did the doctor say caused the pain?",
+     "type": "mc",
+     "options": [
+      "잠을 잘 못 자는 습관",
+      "단 음식을 많이 먹는 것",
+      "오래 앉아서 일하는 습관",
+      "목에 생긴 큰 병"
+     ],
+     "answer": 2,
+     "words": [
+      "원인",
+      "습관"
+     ],
+     "sentence": 9
+    },
+    {
+     "q": "의사는 약만 먹으면 된다고 했어요.",
+     "en": "The doctor said medicine alone is enough.",
+     "type": "tf",
+     "options": null,
+     "answer": false,
+     "words": [
+      "중요하다"
+     ],
+     "sentence": 10
+    },
+    {
+     "q": "한 달 후 동수의 통증은 거의 없어졌어요.",
+     "en": "A month later Dongsu's pain had almost gone.",
+     "type": "tf",
+     "options": null,
+     "answer": true,
+     "words": [
+      "사라지다"
+     ],
+     "sentence": 16
+    }
+   ]
+  },
+  {
+   "id": "p0076",
+   "lv": "B1",
+   "title": "산 정상까지",
+   "oop": {},
+   "names": [],
+   "sentences": [
+    [
+     "저는 올해 초까지 높은 곳에 오르는 것이 힘든 사람이었습니다.",
+     "Until early this year I was someone who found climbing high places hard."
+    ],
+    [
+     "건강 검사에서 의사가 운동을 더 해야 한다고 말했습니다.",
+     "At a health check the doctor told me I had to exercise more."
+    ],
+    [
+     "그래서 저는 큰 목표를 하나 세웠습니다.",
+     "So I set one big goal."
+    ],
+    [
+     "일 년 동안 준비해서 친구들과 함께 높은 산의 정상까지 오르는 것이었습니다.",
+     "It was to prepare for a year and climb to the top of a high mountain with my friends."
+    ],
+    [
+     "일이 있는 날에는 끝난 후에 한 시간씩 걷고, 주말에는 가까운 산에 갔습니다.",
+     "On work days I walked an hour after finishing, and on weekends I went to a nearby mountain."
+    ],
+    [
+     "처음 한 달 동안은 너무 힘들어서 몇 번이나 포기하고 싶었습니다.",
+     "For the first month it was so hard that I wanted to give up many times."
+    ],
+    [
+     "다리가 아프고 쉽게 지쳐서 친구들보다 항상 뒤에서 걸었습니다.",
+     "My legs hurt and I got tired easily, so I always walked behind my friends."
+    ],
+    [
+     "그래도 훈련 기간이 길어지자 몸이 조금씩 달라졌습니다.",
+     "Still, as the training period went on, my body changed little by little."
+    ],
+    [
+     "산을 올라도 숨이 예전처럼 차지 않고 다리도 아프지 않았습니다.",
+     "Even climbing a mountain I was not out of breath as before and my legs didn't hurt."
+    ],
+    [
+     "여섯 달 후에는 세 시간이나 계속 걸을 수 있었습니다.",
+     "After six months I could keep walking for as long as three hours."
+    ],
+    [
+     "그리고 지난 토요일, 우리는 새벽 네 시에 산에서 만났습니다.",
+     "Then last Saturday we met at the mountain at four in the early morning."
+    ],
+    [
+     "올라가는 길에는 비가 오고 바람도 강했습니다.",
+     "On the way up it rained and the wind was strong."
+    ],
+    [
+     "하지만 친구들이 서로 도와 주어서 끝까지 견딜 수 있었습니다.",
+     "But my friends helped each other, so I could endure to the end."
+    ],
+    [
+     "마침내 정상에 도착했을 때 저는 용기를 내서 큰 소리로 웃었습니다.",
+     "When I finally reached the top, I took courage and laughed out loud."
+    ],
+    [
+     "구름 위로 해가 나오는 모습은 제가 본 가장 아름다운 것이었습니다.",
+     "The sun coming out above the clouds was the most beautiful thing I had ever seen."
+    ],
+    [
+     "목표를 이루려면 매일 조금씩 하는 것이 가장 중요하다는 것을 이제 압니다.",
+     "Now I know that to reach a goal, doing a little every day matters most."
+    ]
+   ],
+   "questions": [
+    {
+     "q": "글을 쓴 사람이 세운 목표는 무엇이에요?",
+     "en": "What goal did the writer set?",
+     "type": "mc",
+     "options": [
+      "건강 검사에서 좋은 점수 받기",
+      "친구들과 높은 산의 정상까지 가기",
+      "한 달에 열 번 산에 가기",
+      "친구들보다 빨리 걷기"
+     ],
+     "answer": 1,
+     "words": [
+      "정상"
+     ],
+     "sentence": 3
+    },
+    {
+     "q": "처음 한 달 동안 글을 쓴 사람은 운동이 쉬웠어요.",
+     "en": "In the first month exercise was easy for the writer.",
+     "type": "tf",
+     "options": null,
+     "answer": false,
+     "words": [
+      "포기하다"
+     ],
+     "sentence": 5
+    },
+    {
+     "q": "글을 쓴 사람은 주말에 어디에 갔어요?",
+     "en": "Where did the writer go on weekends?",
+     "type": "mc",
+     "options": [
+      "집 근처의 산",
+      "시내 도서관",
+      "멀리 있는 바다",
+      "친구 학교"
+     ],
+     "answer": 0,
+     "words": [
+      "주말"
+     ],
+     "sentence": 4
+    },
+    {
+     "q": "정상에 가는 날 비가 오고 바람도 강했어요.",
+     "en": "On the day of the climb it rained and the wind was strong.",
+     "type": "tf",
+     "options": null,
+     "answer": true,
+     "words": [
+      "강하다"
+     ],
+     "sentence": 11
+    },
+    {
+     "q": "글을 쓴 사람은 혼자 힘으로만 끝까지 올라갔어요.",
+     "en": "The writer climbed all the way by their own strength alone.",
+     "type": "tf",
+     "options": null,
+     "answer": false,
+     "words": [
+      "견디다"
+     ],
+     "sentence": 12
+    }
+   ]
+  },
+  {
+   "id": "p0077",
+   "lv": "B1",
+   "title": "회의 일정이 바뀌었습니다",
+   "oop": {},
+   "names": [],
+   "sentences": [
+    [
+     "전 직원에게 알려 드립니다.",
+     "This is to inform all staff."
+    ],
+    [
+     "다음 주 월요일에 하기로 한 큰 회의는 목요일 오후로 바뀌었습니다.",
+     "The big meeting planned for next Monday has been moved to Thursday afternoon."
+    ],
+    [
+     "월요일에는 외국에서 온 손님을 만나야 하는 사람이 많기 때문입니다.",
+     "This is because many people have to meet guests from abroad on Monday."
+    ],
+    [
+     "회의는 오후 두 시에 시작해서 네 시에 끝납니다.",
+     "The meeting starts at two in the afternoon and ends at four."
+    ],
+    [
+     "장소는 삼 층 큰 방이고 모든 팀이 참석해야 합니다.",
+     "The place is the big room on the third floor, and every team must attend."
+    ],
+    [
+     "각 팀은 십 분 동안 올해 한 일을 발표해 주십시오.",
+     "Each team, please present what you did this year in ten minutes."
+    ],
+    [
+     "발표 자료는 수요일 오후 다섯 시까지 사무실로 보내 주시기 바랍니다.",
+     "Please send the presentation materials to the office by five on Wednesday."
+    ],
+    [
+     "자료가 많을 필요는 없고 중요한 내용만 정리하면 됩니다.",
+     "The materials need not be long; just sort out the important points."
+    ],
+    [
+     "발표가 끝나면 모두 질문을 할 수 있습니다.",
+     "After the presentations everyone can ask questions."
+    ],
+    [
+     "추가로 하실 말씀이 있는 분은 미리 알려 주십시오.",
+     "If you have anything to add, please let us know in advance."
+    ],
+    [
+     "회의가 끝난 후에는 일 층 식당에서 저녁 식사가 있습니다.",
+     "After the meeting there is dinner in the first-floor restaurant."
+    ],
+    [
+     "음식을 먹지 못하는 분은 이번 주 금요일까지 말씀해 주십시오.",
+     "If there is food you cannot eat, please tell us by this Friday."
+    ],
+    [
+     "몸이 아파서 참석할 수 없는 분은 사무실에 바로 연락해 주십시오.",
+     "If you cannot attend because you are ill, contact the office right away."
+    ],
+    [
+     "바뀐 일정 때문에 불편하신 점이 있으면 이야기해 주시기 바랍니다.",
+     "If the changed schedule causes you any inconvenience, please tell us."
+    ],
+    [
+     "감사합니다.",
+     "Thank you."
+    ]
+   ],
+   "questions": [
+    {
+     "q": "회의는 무슨 요일로 바뀌었어요?",
+     "en": "Which day was the meeting moved to?",
+     "type": "mc",
+     "options": [
+      "목요일",
+      "월요일",
+      "수요일",
+      "금요일"
+     ],
+     "answer": 0,
+     "words": [
+      "회의"
+     ],
+     "sentence": 1
+    },
+    {
+     "q": "월요일에는 손님을 만나야 하는 사람이 많아요.",
+     "en": "Many people have to meet guests on Monday.",
+     "type": "tf",
+     "options": null,
+     "answer": true,
+     "words": [
+      "외국"
+     ],
+     "sentence": 2
+    },
+    {
+     "q": "각 팀은 얼마 동안 발표해야 해요?",
+     "en": "How long must each team present?",
+     "type": "mc",
+     "options": [
+      "오 분",
+      "삼십 분",
+      "한 시간",
+      "십 분"
+     ],
+     "answer": 3,
+     "words": [
+      "팀"
+     ],
+     "sentence": 5
+    },
+    {
+     "q": "발표 자료는 아주 많아야 해요.",
+     "en": "The presentation materials must be very many.",
+     "type": "tf",
+     "options": null,
+     "answer": false,
+     "words": [
+      "자료"
+     ],
+     "sentence": 7
+    },
+    {
+     "q": "회의가 끝난 후에 저녁 식사가 있어요.",
+     "en": "There is dinner after the meeting.",
+     "type": "tf",
+     "options": null,
+     "answer": true,
+     "words": [
+      "식사"
+     ],
+     "sentence": 10
+    }
+   ]
+  },
+  {
+   "id": "p0078",
+   "lv": "B1",
+   "title": "첫 해외 여행",
+   "oop": {},
+   "names": [],
+   "sentences": [
+    [
+     "작년 여름에 저는 처음으로 해외 여행을 했습니다.",
+     "Last summer I travelled abroad for the first time."
+    ],
+    [
+     "비행기에서 내려 공항을 나오니 모든 것이 새로웠습니다.",
+     "When I got off the plane and left the airport, everything was new."
+    ],
+    [
+     "호텔로 가려고 택시를 탔는데 기사가 말하는 영어를 잘 알아듣지 못했습니다.",
+     "I took a taxi to the hotel, but I couldn't understand the English the driver spoke."
+    ],
+    [
+     "호텔에 도착해서 돈을 내려고 가방을 보니 지갑이 없었습니다.",
+     "When I arrived at the hotel and looked in my bag to pay, my wallet was gone."
+    ],
+    [
+     "저는 너무 놀라서 잠시 아무 말도 할 수 없었습니다.",
+     "I was so shocked that for a moment I couldn't say anything."
+    ],
+    [
+     "다행히 호텔 직원이 저 대신 돈을 내 주었습니다.",
+     "Luckily a hotel employee paid for me."
+    ],
+    [
+     "그 후 저는 휴대폰으로 번역 프로그램을 열어서 직원에게 상황을 설명했습니다.",
+     "Then I opened a translation program on my phone and explained the situation to the employee."
+    ],
+    [
+     "직원은 즉시 경찰서에 전화해 주었습니다.",
+     "The employee called the police station immediately."
+    ],
+    [
+     "경찰은 택시와 공항에서 찾아 보겠다고 했습니다.",
+     "The police said they would look in the taxi and at the airport."
+    ],
+    [
+     "저는 밤새 잠을 잘 수 없었고 다음 날 아침에도 계속 걱정했습니다.",
+     "I couldn't sleep all night and kept worrying the next morning too."
+    ],
+    [
+     "그런데 점심때쯤 호텔로 전화가 왔습니다.",
+     "But around lunchtime a call came to the hotel."
+    ],
+    [
+     "지갑이 공항 의자 밑에 있었고, 돈과 카드도 그대로 있었습니다.",
+     "My wallet had been under a chair at the airport, and the money and cards were still there."
+    ],
+    [
+     "저는 경찰서에 가서 지갑을 받고 여러 번 감사하다고 인사했습니다.",
+     "I went to the police station, got my wallet and thanked them many times."
+    ],
+    [
+     "그날 이후로 저는 여행을 갈 때마다 중요한 물건을 두 곳에 나누어 넣습니다.",
+     "Since that day I put important things in two places whenever I travel."
+    ],
+    [
+     "그리고 도움을 부탁하는 일이 부끄러운 일이 아니라는 것도 배웠습니다.",
+     "I also learned that asking for help is nothing to be ashamed of."
+    ]
+   ],
+   "questions": [
+    {
+     "q": "글을 쓴 사람은 호텔에서 돈을 내려다 지갑이 없는 것을 알았어요.",
+     "en": "The writer found the wallet missing when about to pay at the hotel.",
+     "type": "tf",
+     "options": null,
+     "answer": true,
+     "words": [
+      "지갑"
+     ],
+     "sentence": 3
+    },
+    {
+     "q": "호텔에서 누가 돈을 내 주었어요?",
+     "en": "Who paid at the hotel?",
+     "type": "mc",
+     "options": [
+      "택시를 운전한 사람",
+      "경찰서에서 온 사람",
+      "호텔에서 일하는 사람",
+      "같이 간 친구"
+     ],
+     "answer": 2,
+     "words": [
+      "다행히"
+     ],
+     "sentence": 5
+    },
+    {
+     "q": "글을 쓴 사람은 어떻게 상황을 설명했어요?",
+     "en": "How did the writer explain the situation?",
+     "type": "mc",
+     "options": [
+      "그림을 그려서",
+      "번역 프로그램으로",
+      "몸으로 보여 줘서",
+      "친구에게 부탁해서"
+     ],
+     "answer": 1,
+     "words": [
+      "번역",
+      "설명하다"
+     ],
+     "sentence": 6
+    },
+    {
+     "q": "지갑은 공항 의자 밑에서 나왔어요.",
+     "en": "The wallet was found under a chair at the airport.",
+     "type": "tf",
+     "options": null,
+     "answer": true,
+     "words": [
+      "의자"
+     ],
+     "sentence": 11
+    },
+    {
+     "q": "지갑 안의 돈은 모두 없어졌어요.",
+     "en": "All the money in the wallet was gone.",
+     "type": "tf",
+     "options": null,
+     "answer": false,
+     "words": [
+      "카드"
+     ],
+     "sentence": 11
+    }
+   ]
+  },
+  {
+   "id": "p0079",
+   "lv": "B1",
+   "title": "작은 나눔 시장",
+   "oop": {},
+   "names": [],
+   "sentences": [
+    [
+     "우리 아파트에는 한 달에 한 번 작은 시장이 열립니다.",
+     "In our apartment complex a small market opens once a month."
+    ],
+    [
+     "이 시장에서는 집에서 쓰던 물건을 살 수도 있고 팔 수도 있습니다.",
+     "At this market you can buy and sell things you used at home."
+    ],
+    [
+     "저는 지난주에 처음으로 물건을 팔아 보았습니다.",
+     "Last week I tried selling things for the first time."
+    ],
+    [
+     "이사를 준비하면서 쓰지 않는 물건이 너무 많았기 때문입니다.",
+     "It was because while preparing to move I had too many things I didn't use."
+    ],
+    [
+     "책상 위에 책과 옷, 작은 가방과 그림을 올려 놓았습니다.",
+     "On a desk I laid out books, clothes, a small bag and a picture."
+    ],
+    [
+     "처음에는 사람들이 그냥 지나가기만 했습니다.",
+     "At first people just passed by."
+    ],
+    [
+     "저는 조금 부끄러웠지만 용기를 내서 \"책은 천 원이에요!\" 하고 말했습니다.",
+     "I was a little embarrassed, but I took courage and said, \"Books are a thousand won!\""
+    ],
+    [
+     "그러자 한 여자가 와서 책 다섯 권을 사 갔습니다.",
+     "Then a woman came and bought five books."
+    ],
+    [
+     "옆에 있던 할아버지는 그림을 보고 오래 웃으셨습니다.",
+     "The old man next to me looked at the picture and smiled for a long time."
+    ],
+    [
+     "\"우리 아이가 이런 그림을 좋아하는데...\" 하고 말씀하셨습니다.",
+     "He said, \"My child likes this kind of picture...\""
+    ],
+    [
+     "저는 그 그림을 공짜로 드렸습니다.",
+     "I gave him that picture for free."
+    ],
+    [
+     "할아버지는 고맙다며 주머니에서 과일을 꺼내 저에게 주셨습니다.",
+     "Thanking me, he took some fruit out of his pocket and gave it to me."
+    ],
+    [
+     "시장 한 곳에서는 모임 사람들이 팔고 남은 옷을 모았습니다.",
+     "In one spot of the market the people of a group collected leftover clothes."
+    ],
+    [
+     "그 옷은 필요한 사람들에게 보내진다고 합니다.",
+     "The clothes are said to be sent to people who need them."
+    ],
+    [
+     "저는 안 입는 옷 몇 벌을 그 모임에 드렸습니다.",
+     "I gave a few clothes I didn't wear to that group."
+    ],
+    [
+     "오후에 계산해 보니 번 돈은 많지 않았지만 마음은 가벼웠습니다.",
+     "In the afternoon I counted up, and the money I earned wasn't much, but my heart was light."
+    ],
+    [
+     "다음 달에도 다시 나오고 싶습니다.",
+     "I want to come again next month."
+    ]
+   ],
+   "questions": [
+    {
+     "q": "글을 쓴 사람은 왜 물건을 팔았어요?",
+     "en": "Why did the writer sell things?",
+     "type": "mc",
+     "options": [
+      "돈이 꼭 필요해서",
+      "이사를 준비하면서 안 쓰는 물건이 많아서",
+      "친구가 부탁해서",
+      "새 가게를 열고 싶어서"
+     ],
+     "answer": 1,
+     "words": [
+      "이사"
+     ],
+     "sentence": 3
+    },
+    {
+     "q": "처음부터 사람들이 물건을 많이 샀어요.",
+     "en": "People bought a lot from the very start.",
+     "type": "tf",
+     "options": null,
+     "answer": false,
+     "words": [
+      "지나가다"
+     ],
+     "sentence": 5
+    },
+    {
+     "q": "할아버지는 그림을 받고 무엇을 주셨어요?",
+     "en": "What did the old man give after receiving the picture?",
+     "type": "mc",
+     "options": [
+      "과일",
+      "돈",
+      "책",
+      "그림"
+     ],
+     "answer": 0,
+     "words": [
+      "꺼내다"
+     ],
+     "sentence": 11
+    },
+    {
+     "q": "한 여자가 책을 다섯 권 사 갔어요.",
+     "en": "A woman bought five books.",
+     "type": "tf",
+     "options": null,
+     "answer": true,
+     "words": [
+      "권"
+     ],
+     "sentence": 7
+    },
+    {
+     "q": "글을 쓴 사람은 번 돈이 많아서 기뻤어요.",
+     "en": "The writer was happy because they earned a lot.",
+     "type": "tf",
+     "options": null,
+     "answer": false,
+     "words": [
+      "돈"
+     ],
+     "sentence": 15
+    }
+   ]
+  },
+  {
+   "id": "p0080",
+   "lv": "B1",
+   "title": "휴대폰 없는 주말",
+   "oop": {},
+   "names": [],
+   "sentences": [
+    [
+     "저는 하루에 휴대폰을 다섯 시간 넘게 사용하는 사람이었습니다.",
+     "I was a person who used a phone for over five hours a day."
+    ],
+    [
+     "어느 날 휴대폰이 알려 준 사용 시간을 보고 깜짝 놀랐습니다.",
+     "One day I was startled to see the usage time my phone showed."
+    ],
+    [
+     "일주일 동안 서른여덟 시간이나 본 것입니다.",
+     "In a week I had looked at it for as much as thirty-eight hours."
+    ],
+    [
+     "저는 그 시간에 다른 일을 할 수 있었다고 생각했습니다.",
+     "I thought I could have done other things in that time."
+    ],
+    [
+     "그래서 이번 주말에는 휴대폰을 가방 속에 넣어 두기로 했습니다.",
+     "So this weekend I decided to leave the phone in my bag."
+    ],
+    [
+     "휴대폰이 없는 처음 아침에는 자꾸 손이 가방으로 갔습니다.",
+     "On the first morning without the phone my hand kept going to the bag."
+    ],
+    [
+     "문자가 오지 않았는지 걱정이 되고, 시간도 알 수 없어서 불안했습니다.",
+     "I worried whether a message had come, and since I couldn't tell the time I felt uneasy."
+    ],
+    [
+     "하지만 점심 시간이 되자 조금씩 마음이 편해졌습니다.",
+     "But when lunch time came I gradually felt at ease."
+    ],
+    [
+     "저는 오랜만에 소설을 읽고, 공원을 한 시간 동안 걸었습니다.",
+     "After a long time I read a novel and walked in the park for an hour."
+    ],
+    [
+     "가까운 친구에게는 전화 대신 편지를 썼습니다.",
+     "To a close friend I wrote a letter instead of calling."
+    ],
+    [
+     "저녁에는 가족과 함께 요리를 하고 천천히 이야기도 했습니다.",
+     "In the evening I cooked with my family and talked slowly."
+    ],
+    [
+     "둘째 날에는 휴대폰 생각이 거의 나지 않았습니다.",
+     "On the second day I hardly thought about the phone."
+    ],
+    [
+     "월요일 아침에 가방을 열어 보니 문자 몇 개와 광고만 와 있었습니다.",
+     "On Monday morning I opened the bag and found only a few messages and ads."
+    ],
+    [
+     "급한 일은 하나도 없었습니다.",
+     "There was nothing urgent at all."
+    ],
+    [
+     "저는 휴대폰을 완전히 끊지는 못하겠지만 이제는 필요할 때만 쓰려고 합니다.",
+     "I can't give up my phone completely, but from now on I'll use it only when needed."
+    ],
+    [
+     "앞으로는 저녁 여덟 시 이후에는 가방 속에 넣어 두기로 했습니다.",
+     "From now on I decided to keep it in my bag after eight in the evening."
+    ]
+   ],
+   "questions": [
+    {
+     "q": "글을 쓴 사람은 왜 휴대폰을 가방에 넣었어요?",
+     "en": "Why did the writer put the phone in the bag?",
+     "type": "mc",
+     "options": [
+      "휴대폰이 고장 나서",
+      "친구가 부탁해서",
+      "새 휴대폰을 사려고",
+      "사용 시간이 너무 길어서"
+     ],
+     "answer": 3,
+     "words": [
+      "사용"
+     ],
+     "sentence": 1
+    },
+    {
+     "q": "처음 아침에 글을 쓴 사람은 마음이 편했어요.",
+     "en": "On the first morning the writer felt at ease.",
+     "type": "tf",
+     "options": null,
+     "answer": false,
+     "words": [
+      "불안하다"
+     ],
+     "sentence": 6
+    },
+    {
+     "q": "글을 쓴 사람은 가까운 친구에게 어떻게 연락했어요?",
+     "en": "How did the writer contact a close friend?",
+     "type": "mc",
+     "options": [
+      "전화했어요",
+      "문자를 보냈어요",
+      "편지를 썼어요",
+      "직접 만나러 갔어요"
+     ],
+     "answer": 2,
+     "words": [
+      "편지"
+     ],
+     "sentence": 9
+    },
+    {
+     "q": "월요일에 열어 보니 급한 문자는 없었어요.",
+     "en": "On Monday there were no urgent messages.",
+     "type": "tf",
+     "options": null,
+     "answer": true,
+     "words": [
+      "급하다"
+     ],
+     "sentence": 13
+    },
+    {
+     "q": "글을 쓴 사람은 앞으로 휴대폰을 완전히 쓰지 않을 거예요.",
+     "en": "The writer will stop using the phone completely.",
+     "type": "tf",
+     "options": null,
+     "answer": false,
+     "words": [
+      "완전히"
+     ],
+     "sentence": 14
+    }
+   ]
   }
  ]
 }

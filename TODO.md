@@ -14,6 +14,10 @@ Residuals from the v1 QA rounds. The rules already in place are in
   stale. Open: the passages were written by a model and want a native
   speaker's read, B1 first. Authoring drafts live in the gitignored
   `.cache/src/` (a1/a2/b1.py, assemble.py, qa.py, spans.py).
+- **More reading (2026-10-14).** p0061-p0080 (10 A2, 10 B1) appended to
+  `tools/passages_src.json` (80 passages in all); p0001-p0060 byte-identical so
+  progress keys are unchanged. Owner decision: more A2/B1 reading. Same
+  native-speaker-read caveat as above.
 - **Passage residuals (re-QA 2026-09-25, accepted as-is).** 부탁드립니다 links
   as one whole eojeol rather than 부탁 + 드리다 + -ㅂ니다; p0030 q2's wrong
   options include one at a level above the passage's own; p0035's sixth
