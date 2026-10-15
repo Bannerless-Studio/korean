@@ -138,5 +138,520 @@
     "licence": "CC-BY-SA-4.0",
     "count": 1692,
     "audio": "none (TTS)"
+  },
+  "story_sentences": {
+    "source": "Storybooks Korea (Global Storybooks, African Storybook stories translated into Korean) and the Global Digital Library (Let's Read, The Asia Foundation), Korean books with their English edition",
+    "licence": "CC-BY-3.0 / CC-BY-4.0 (per story, see stories)",
+    "url": "https://global-asp.github.io/storybooks-korea/ ; https://digitallibrary.io/",
+    "note": "Sentences are split out of the book text, Korean and English realigned sentence by sentence; typographic quotes became plain, nothing else was changed.",
+    "count": 103,
+    "stories": [
+      {
+        "id": "gdl-42416",
+        "source": "Global Digital Library (Let's Read, The Asia Foundation)",
+        "title": "Three Gifts",
+        "english_title": "Three Gifts",
+        "authors": [
+          "Wong Chew Wee"
+        ],
+        "illustrators": [],
+        "translators": [
+          "Sonya Sondakh",
+          "Neysa Putri Ardianti"
+        ],
+        "publisher": "National Library Board, Singapore",
+        "licence": "CC-BY-4.0",
+        "url": "https://content.digitallibrary.io/book/three-gifts-2/",
+        "english_url": "https://content.digitallibrary.io/book/three-gifts/"
+      },
+      {
+        "id": "gsb-0001",
+        "source": "Storybooks Korea (Global Storybooks)",
+        "title": "아주 키가 큰 아저씨",
+        "english_title": "A very tall man",
+        "authors": [
+          "Cornelius Gulere"
+        ],
+        "illustrators": [
+          "Catherine Groenewald"
+        ],
+        "translators": [
+          "Michelle Kim"
+        ],
+        "licence": "CC-BY-3.0",
+        "url": "https://global-asp.github.io/storybooks-korea/stories/ko/0001/",
+        "english_url": "https://global-asp.github.io/storybooks-korea/stories/en/0001/",
+        "original": "African Storybook: A very tall man",
+        "original_url": "https://africanstorybook.org/reader.php?id=918"
+      },
+      {
+        "id": "gsb-0004",
+        "source": "Storybooks Korea (Global Storybooks)",
+        "title": "염소, 개 그리고 소",
+        "english_title": "Goat, Dog, and Cow",
+        "authors": [
+          "Fabian Wakholi"
+        ],
+        "illustrators": [
+          "Marleen Visser",
+          "Ingrid Schechter"
+        ],
+        "translators": [
+          "Michelle Kim"
+        ],
+        "licence": "CC-BY-3.0",
+        "url": "https://global-asp.github.io/storybooks-korea/stories/ko/0004/",
+        "english_url": "https://global-asp.github.io/storybooks-korea/stories/en/0004/",
+        "original": "African Storybook: Goat, Dog and Cow",
+        "original_url": "https://africanstorybook.org/reader.php?id=6380"
+      },
+      {
+        "id": "gsb-0006",
+        "source": "Storybooks Korea (Global Storybooks)",
+        "title": "아난시와 지혜",
+        "english_title": "Anansi and Wisdom",
+        "authors": [
+          "Ghanaian folktale"
+        ],
+        "illustrators": [
+          "Wiehan de Jager"
+        ],
+        "translators": [
+          "Jong Yong Park"
+        ],
+        "licence": "CC-BY-3.0",
+        "url": "https://global-asp.github.io/storybooks-korea/stories/ko/0006/",
+        "english_url": "https://global-asp.github.io/storybooks-korea/stories/en/0006/",
+        "original": "African Storybook: Anansi and Wisdom",
+        "original_url": "https://africanstorybook.org/reader.php?id=1938"
+      },
+      {
+        "id": "gsb-0008",
+        "source": "Storybooks Korea (Global Storybooks)",
+        "title": "뭐 하고 있니?",
+        "english_title": "What are you doing?",
+        "authors": [
+          "Nina Orange"
+        ],
+        "illustrators": [
+          "Wiehan de Jager"
+        ],
+        "translators": [
+          "Jong Yong Park"
+        ],
+        "licence": "CC-BY-3.0",
+        "url": "https://global-asp.github.io/storybooks-korea/stories/ko/0008/",
+        "english_url": "https://global-asp.github.io/storybooks-korea/stories/en/0008/",
+        "original": "African Storybook: What are you doing?",
+        "original_url": "https://africanstorybook.org/reader.php?id=7292"
+      },
+      {
+        "id": "gsb-0027",
+        "source": "Storybooks Korea (Global Storybooks)",
+        "title": "결정",
+        "english_title": "Decision",
+        "authors": [
+          "Ursula Nafula"
+        ],
+        "illustrators": [
+          "Vusi Malindi"
+        ],
+        "translators": [
+          "Jong Yong Park"
+        ],
+        "licence": "CC-BY-4.0",
+        "url": "https://global-asp.github.io/storybooks-korea/stories/ko/0027/",
+        "english_url": "https://global-asp.github.io/storybooks-korea/stories/en/0027/",
+        "original": "African Storybook: Decision",
+        "original_url": "https://africanstorybook.org/reader.php?id=13304"
+      },
+      {
+        "id": "gsb-0052",
+        "source": "Storybooks Korea (Global Storybooks)",
+        "title": "심베그위레",
+        "english_title": "Simbegwire",
+        "authors": [
+          "Rukia Nantale"
+        ],
+        "illustrators": [
+          "Benjamin Mitchley"
+        ],
+        "translators": [
+          "Michelle Kim"
+        ],
+        "licence": "CC-BY-3.0",
+        "url": "https://global-asp.github.io/storybooks-korea/stories/ko/0052/",
+        "english_url": "https://global-asp.github.io/storybooks-korea/stories/en/0052/",
+        "original": "African Storybook: Simbegwire",
+        "original_url": "https://africanstorybook.org/reader.php?id=7068"
+      },
+      {
+        "id": "gsb-0066",
+        "source": "Storybooks Korea (Global Storybooks)",
+        "title": "노자벨레와 세 머리카락",
+        "english_title": "Nozibele and the three hairs",
+        "authors": [
+          "Tessa Welch"
+        ],
+        "illustrators": [
+          "Wiehan de Jager"
+        ],
+        "translators": [
+          "Jong Yong Park"
+        ],
+        "licence": "CC-BY-3.0",
+        "url": "https://global-asp.github.io/storybooks-korea/stories/ko/0066/",
+        "english_url": "https://global-asp.github.io/storybooks-korea/stories/en/0066/",
+        "original": "African Storybook: Nozibele and the three hairs",
+        "original_url": "https://africanstorybook.org/reader.php?id=1880"
+      },
+      {
+        "id": "gsb-0087",
+        "source": "Storybooks Korea (Global Storybooks)",
+        "title": "나는 책 읽기를 좋아해요!",
+        "english_title": "I like to read!",
+        "authors": [
+          "Letta Machoga"
+        ],
+        "illustrators": [
+          "Wiehan de Jager"
+        ],
+        "translators": [
+          "Michelle Kim"
+        ],
+        "licence": "CC-BY-3.0",
+        "url": "https://global-asp.github.io/storybooks-korea/stories/ko/0087/",
+        "english_url": "https://global-asp.github.io/storybooks-korea/stories/en/0087/",
+        "original": "African Storybook: I like to read",
+        "original_url": "https://africanstorybook.org/reader.php?id=10547"
+      },
+      {
+        "id": "gsb-0095",
+        "source": "Storybooks Korea (Global Storybooks)",
+        "title": "자마는 대단해요!",
+        "english_title": "Zama is great!",
+        "authors": [
+          "Michael Oguttu"
+        ],
+        "illustrators": [
+          "Vusi Malindi"
+        ],
+        "translators": [
+          "Michelle Kim"
+        ],
+        "licence": "CC-BY-3.0",
+        "url": "https://global-asp.github.io/storybooks-korea/stories/ko/0095/",
+        "english_url": "https://global-asp.github.io/storybooks-korea/stories/en/0095/",
+        "original": "African Storybook: Zama is great!",
+        "original_url": "https://africanstorybook.org/reader.php?id=9984"
+      },
+      {
+        "id": "gsb-0110",
+        "source": "Storybooks Korea (Global Storybooks)",
+        "title": "작은 씨앗: 완가리 마타이의 이야기",
+        "english_title": "A Tiny Seed: The Story of Wangari Maathai",
+        "authors": [
+          "Nicola Rijsdijk"
+        ],
+        "illustrators": [
+          "Maya Marshak"
+        ],
+        "translators": [
+          "Michelle Kim"
+        ],
+        "licence": "CC-BY-4.0",
+        "url": "https://global-asp.github.io/storybooks-korea/stories/ko/0110/",
+        "english_url": "https://global-asp.github.io/storybooks-korea/stories/en/0110/",
+        "original": "African Storybook: A Tiny Seed: The Story of Wangari Maathai",
+        "original_url": "https://africanstorybook.org/reader.php?id=9809"
+      },
+      {
+        "id": "gsb-0111",
+        "source": "Storybooks Korea (Global Storybooks)",
+        "title": "하마는 왜 털이 없을까요?",
+        "english_title": "Why hippos have no hair",
+        "authors": [
+          "Basilio Gimo",
+          "David Ker"
+        ],
+        "illustrators": [
+          "Carol Liddiment"
+        ],
+        "translators": [
+          "Michelle Kim"
+        ],
+        "licence": "CC-BY-3.0",
+        "url": "https://global-asp.github.io/storybooks-korea/stories/ko/0111/",
+        "english_url": "https://global-asp.github.io/storybooks-korea/stories/en/0111/",
+        "original": "African Storybook: Why hippos have no hair",
+        "original_url": "https://africanstorybook.org/reader.php?id=6160"
+      },
+      {
+        "id": "gsb-0141",
+        "source": "Storybooks Korea (Global Storybooks)",
+        "title": "닭과 지네",
+        "english_title": "Chicken and Millipede",
+        "authors": [
+          "Winny Asara"
+        ],
+        "illustrators": [
+          "Magriet Brink"
+        ],
+        "translators": [
+          "Michelle Kim"
+        ],
+        "licence": "CC-BY-3.0",
+        "url": "https://global-asp.github.io/storybooks-korea/stories/ko/0141/",
+        "english_url": "https://global-asp.github.io/storybooks-korea/stories/en/0141/",
+        "original": "African Storybook: Chicken and Millipede",
+        "original_url": "https://africanstorybook.org/reader.php?id=9094"
+      },
+      {
+        "id": "gsb-0158",
+        "source": "Storybooks Korea (Global Storybooks)",
+        "title": "닭과 독수리",
+        "english_title": "Hen and Eagle",
+        "authors": [
+          "Ann Nduku"
+        ],
+        "illustrators": [
+          "Wiehan de Jager"
+        ],
+        "translators": [
+          "Michelle Kim"
+        ],
+        "licence": "CC-BY-3.0",
+        "url": "https://global-asp.github.io/storybooks-korea/stories/ko/0158/",
+        "english_url": "https://global-asp.github.io/storybooks-korea/stories/en/0158/",
+        "original": "African Storybook: Hen and Eagle",
+        "original_url": "https://africanstorybook.org/reader.php?id=2084"
+      },
+      {
+        "id": "gsb-0201",
+        "source": "Storybooks Korea (Global Storybooks)",
+        "title": "당나귀 아이",
+        "english_title": "Donkey Child",
+        "authors": [
+          "Lindiwe Matshikiza"
+        ],
+        "illustrators": [
+          "Meghan Judge"
+        ],
+        "translators": [
+          "Michelle Kim"
+        ],
+        "licence": "CC-BY-4.0",
+        "url": "https://global-asp.github.io/storybooks-korea/stories/ko/0201/",
+        "english_url": "https://global-asp.github.io/storybooks-korea/stories/en/0201/",
+        "original": "African Storybook: Donkey Child",
+        "original_url": "https://africanstorybook.org/reader.php?id=15028"
+      },
+      {
+        "id": "gsb-0210",
+        "source": "Storybooks Korea (Global Storybooks)",
+        "title": "틴지와 소들",
+        "english_title": "Tingi and the cows",
+        "authors": [
+          "Ingrid Schechter"
+        ],
+        "illustrators": [
+          "Ingrid Schechter"
+        ],
+        "translators": [
+          "Michelle Kim"
+        ],
+        "licence": "CC-BY-3.0",
+        "url": "https://global-asp.github.io/storybooks-korea/stories/ko/0210/",
+        "english_url": "https://global-asp.github.io/storybooks-korea/stories/en/0210/",
+        "original": "African Storybook: Tingi and the Cows",
+        "original_url": "https://africanstorybook.org/reader.php?id=7441"
+      },
+      {
+        "id": "gsb-0243",
+        "source": "Storybooks Korea (Global Storybooks)",
+        "title": "할머니와 함께하는 휴가",
+        "english_title": "Holidays with grandmother",
+        "authors": [
+          "Violet Otieno"
+        ],
+        "illustrators": [
+          "Catherine Groenewald"
+        ],
+        "translators": [
+          "Scarlet Kim (김새봄)"
+        ],
+        "licence": "CC-BY-4.0",
+        "url": "https://global-asp.github.io/storybooks-korea/stories/ko/0243/",
+        "english_url": "https://global-asp.github.io/storybooks-korea/stories/en/0243/",
+        "original": "African Storybook: Holidays with grandmother",
+        "original_url": "https://africanstorybook.org/reader.php?id=12084"
+      },
+      {
+        "id": "gsb-0291",
+        "source": "Storybooks Korea (Global Storybooks)",
+        "title": "부시의 누나가 말한 것",
+        "english_title": "What Vusi’s sister said",
+        "authors": [
+          "Nina Orange"
+        ],
+        "illustrators": [
+          "Wiehan de Jager"
+        ],
+        "translators": [
+          "Jong Yong Park"
+        ],
+        "licence": "CC-BY-3.0",
+        "url": "https://global-asp.github.io/storybooks-korea/stories/ko/0291/",
+        "english_url": "https://global-asp.github.io/storybooks-korea/stories/en/0291/",
+        "original": "African Storybook: What Vusi's sister said",
+        "original_url": "https://africanstorybook.org/reader.php?id=6895"
+      },
+      {
+        "id": "gsb-0296",
+        "source": "Storybooks Korea (Global Storybooks)",
+        "title": "바나나 장수 톰",
+        "english_title": "Tom the banana seller",
+        "authors": [
+          "Humphreys Odunga"
+        ],
+        "illustrators": [
+          "Zablon Alex Nguku"
+        ],
+        "translators": [
+          "Jong Yong Park"
+        ],
+        "licence": "CC-BY-4.0",
+        "url": "https://global-asp.github.io/storybooks-korea/stories/ko/0296/",
+        "english_url": "https://global-asp.github.io/storybooks-korea/stories/en/0296/",
+        "original": "African Storybook: Tom the banana seller",
+        "original_url": "https://africanstorybook.org/reader.php?id=13627"
+      },
+      {
+        "id": "gsb-0302",
+        "source": "Storybooks Korea (Global Storybooks)",
+        "title": "불",
+        "english_title": "Fire",
+        "authors": [
+          "Deborah Namugosa",
+          "Beatrice Nabune",
+          "Alison Tukei",
+          "Rose Sabano"
+        ],
+        "illustrators": [
+          "Rob Owen"
+        ],
+        "translators": [
+          "Michelle Kim"
+        ],
+        "licence": "CC-BY-3.0",
+        "url": "https://global-asp.github.io/storybooks-korea/stories/ko/0302/",
+        "english_url": "https://global-asp.github.io/storybooks-korea/stories/en/0302/",
+        "original": "African Storybook: Fire",
+        "original_url": "https://africanstorybook.org/reader.php?id=8565"
+      },
+      {
+        "id": "gsb-0315",
+        "source": "Storybooks Korea (Global Storybooks)",
+        "title": "사키마의 노래",
+        "english_title": "Sakima’s song",
+        "authors": [
+          "Ursula Nafula"
+        ],
+        "illustrators": [
+          "Peris Wachuka"
+        ],
+        "translators": [
+          "Jong Yong Park"
+        ],
+        "licence": "CC-BY-4.0",
+        "url": "https://global-asp.github.io/storybooks-korea/stories/ko/0315/",
+        "english_url": "https://global-asp.github.io/storybooks-korea/stories/en/0315/",
+        "original": "African Storybook: Sakima's song",
+        "original_url": "https://africanstorybook.org/reader.php?id=13244"
+      },
+      {
+        "id": "gsb-0324",
+        "source": "Storybooks Korea (Global Storybooks)",
+        "title": "집으로부터 도시로 떠난 날",
+        "english_title": "The day I left home for the city",
+        "authors": [
+          "Lesley Koyi",
+          "Ursula Nafula"
+        ],
+        "illustrators": [
+          "Brian Wambi"
+        ],
+        "translators": [
+          "Jong Yong Park"
+        ],
+        "licence": "CC-BY-4.0",
+        "url": "https://global-asp.github.io/storybooks-korea/stories/ko/0324/",
+        "english_url": "https://global-asp.github.io/storybooks-korea/stories/en/0324/",
+        "original": "African Storybook: The day I left home for the city",
+        "original_url": "https://africanstorybook.org/reader.php?id=15029"
+      },
+      {
+        "id": "gsb-0327",
+        "source": "Storybooks Korea (Global Storybooks)",
+        "title": "동물을 세다",
+        "english_title": "Counting animals",
+        "authors": [
+          "Zanele Buthelezi",
+          "Thembani Dladla",
+          "Clare Verbeek"
+        ],
+        "illustrators": [
+          "Rob Owen"
+        ],
+        "translators": [
+          "Scarlet Kim (김새봄)"
+        ],
+        "licence": "CC-BY-3.0",
+        "url": "https://global-asp.github.io/storybooks-korea/stories/ko/0327/",
+        "english_url": "https://global-asp.github.io/storybooks-korea/stories/en/0327/",
+        "original": "African Storybook: Counting animals",
+        "original_url": "https://africanstorybook.org/reader.php?id=9671"
+      },
+      {
+        "id": "gsb-0337",
+        "source": "Storybooks Korea (Global Storybooks)",
+        "title": "밀랍 아이들",
+        "english_title": "Children of wax",
+        "authors": [
+          "Southern African Folktale"
+        ],
+        "illustrators": [
+          "Wiehan de Jager"
+        ],
+        "translators": [
+          "Jong Yong Park"
+        ],
+        "licence": "CC-BY-3.0",
+        "url": "https://global-asp.github.io/storybooks-korea/stories/ko/0337/",
+        "english_url": "https://global-asp.github.io/storybooks-korea/stories/en/0337/",
+        "original": "African Storybook: Children of wax",
+        "original_url": "https://africanstorybook.org/reader.php?id=2181"
+      },
+      {
+        "id": "gsb-0342",
+        "source": "Storybooks Korea (Global Storybooks)",
+        "title": "벌",
+        "english_title": "Punishment",
+        "authors": [
+          "Adelheid Marie Bwire"
+        ],
+        "illustrators": [
+          "Melany Pietersen"
+        ],
+        "translators": [
+          "Jong Yong Park"
+        ],
+        "licence": "CC-BY-3.0",
+        "url": "https://global-asp.github.io/storybooks-korea/stories/ko/0342/",
+        "english_url": "https://global-asp.github.io/storybooks-korea/stories/en/0342/",
+        "original": "African Storybook: Punishment",
+        "original_url": "https://africanstorybook.org/reader.php?id=11989"
+      }
+    ]
   }
 }

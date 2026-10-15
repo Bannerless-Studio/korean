@@ -1,0 +1,20 @@
+# Story sentences dropped after the full hand audit of 2026-10-15 (Storybooks Korea + Global Digital Library pairs, strict level): the Korean and the English are not one
+# sentence (English changes the action, adds or drops a detail, swaps a noun for a pronoun, tense or person differs).
+# One sentence per line exactly as the pack shows it; a line starting with "#" is a comment. Matching is on the text; the id is informational.
+
+# s3051 story pair audit: bought vs made
+아저씨께서는 아주 높은 자전거를 만들었어요.
+# s3049 story pair audit: door frames vs door
+아저씨께서는 문을 아주 높게 만들었어요.
+# s3057 story pair audit: present vs "had", our vs my
+우리 마을은 많은 문제가 있어요.
+# s3070 story pair audit: "make sure knows" vs tell
+그리고 나는 내 동생에게 모든 학교 소식을 말해줘요.
+# s3078 story pair audit: English adds "to play football"; spacing error in the Korean
+어느 날 그들은 누가 더 축구를 잘하는 지 알아보기로 했어요.
+# s3172 story pair audit: English drops "pregnant"
+부끄럽지만 용기를 내어, 소녀는 그 임신한 여성에게 다가갔어요.
+# s3100 story pair audit: English "Nearly all were ripe" has no noun
+거의 모든 바나나들이 익었어요.
+# s3124 story pair audit: English "He" for 사자 (lion)
+사자도 물을 마시고 싶어한다.

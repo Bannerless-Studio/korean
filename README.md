@@ -66,7 +66,7 @@ not CEFR. Full QA history and fix-round detail is in `tools/README.md` and
 `TODO.md`.
 
 Tatoeba had too few usable sentences for many words, so **1,692 of the
-3,044 example sentences were written for this pack** (312 at A1, 543 at A2,
+3,147 example sentences were written for this pack** (312 at A1, 543 at A2,
 837 at B1), marked `"src": "gen"` in `pack/sentences.json`. Every word has
 at least two sentences, and every word except three sensitive ones (죽다,
 전쟁, 죽음) has one at its own level. Generated sentences are polite (해요체
@@ -102,8 +102,9 @@ TTS. Rules, counts and seeds are in `tools/REPORT.md`.
 | Example sentences | [Tatoeba](https://tatoeba.org) `kor_sentences_detailed.tsv` | CC-BY 2.0 FR | sentence text (contributor usernames in `pack/attribution.json`) |
 | Sentence translations | Tatoeba `eng_sentences.tsv` + `kor-eng_links.tsv` | CC-BY 2.0 FR | English translations |
 | Generated sentences | written for this pack, `tools/generated_sentences.tsv` | CC-BY-SA 4.0 | sentences for words Tatoeba covers with fewer than 2 usable sentences, marked `"src": "gen"` |
+| Story sentences | [Storybooks Korea](https://global-asp.github.io/storybooks-korea/) (Global Storybooks; African Storybook stories translated into Korean) and the [Global Digital Library](https://digitallibrary.io/) (1 Let's Read book), each with its English edition (authors, illustrators, translators, original story, licence and links per story in `pack/attribution.json`) | CC BY 3.0 (17 stories), CC BY 4.0 (8 stories) | 103 sentences from 25 stories marked `"src": "story"`; at most four examples per word |
 
-Licence: code MIT, pack data CC BY-SA 4.0, see LICENSE.
+Licence: code MIT, pack data CC BY-SA 4.0, see LICENSE. The CC BY story sentences stay under CC BY 3.0 / 4.0 inside the pack (compatible with BY-SA); keep the credits. Changes made: text split into sentences, Korean and English realigned sentence by sentence, typographic quotes made plain; nothing else.
 
 Tatoeba has no permissively licensed Korean audio, so the pack links none
 and relies on TTS. No licence is non-commercial.

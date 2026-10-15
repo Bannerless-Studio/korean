@@ -124,6 +124,13 @@
   "fonts": [
     "Noto Sans KR:wght@400;700"
   ],
+  "credits": [
+    {
+      "name": "Storybooks Korea and Global Digital Library stories (story authors, illustrators and translators)",
+      "licence": "CC BY 3.0 / CC BY 4.0",
+      "url": "https://global-asp.github.io/storybooks-korea/"
+    }
+  ],
   "script": {
     "stages": [
       {
