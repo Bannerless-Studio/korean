@@ -144,7 +144,7 @@
     "licence": "CC-BY-3.0 / CC-BY-4.0 (per story, see stories)",
     "url": "https://global-asp.github.io/storybooks-korea/ ; https://digitallibrary.io/",
     "note": "Sentences are split out of the book text, Korean and English realigned sentence by sentence; typographic quotes became plain, nothing else was changed.",
-    "count": 103,
+    "count": 126,
     "stories": [
       {
         "id": "gdl-42416",
@@ -324,6 +324,26 @@
         "english_url": "https://global-asp.github.io/storybooks-korea/stories/en/0087/",
         "original": "African Storybook: I like to read",
         "original_url": "https://africanstorybook.org/reader.php?id=10547"
+      },
+      {
+        "id": "gsb-0089",
+        "source": "Storybooks Korea (Global Storybooks)",
+        "title": "칼라이는 식물에게 말해요",
+        "english_title": "Khalai talks to plants",
+        "authors": [
+          "Ursula Nafula"
+        ],
+        "illustrators": [
+          "Jesse Pietersen"
+        ],
+        "translators": [
+          "Jong Yong Park"
+        ],
+        "licence": "CC-BY-4.0",
+        "url": "https://global-asp.github.io/storybooks-korea/stories/ko/0089/",
+        "english_url": "https://global-asp.github.io/storybooks-korea/stories/en/0089/",
+        "original": "African Storybook: Khalai talks to plants",
+        "original_url": "https://africanstorybook.org/reader.php?id=13545"
       },
       {
         "id": "gsb-0095",

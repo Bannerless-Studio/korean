@@ -23,7 +23,7 @@ Residuals from the v1 QA rounds. The rules already in place are in
   options include one at a level above the passage's own; p0035's sixth
   sentence has an awkward English phrasing. None block coverage or linking
   and none were fixed this round.
-- 1,692 of 3,147 sentences are machine-written (`"src": "gen"`; 103 others are human story-book sentences, `"src": "story"`): 312 at A1,
+- 1,692 of 3,170 sentences are machine-written (`"src": "gen"`; 126 others are human story-book sentences, `"src": "story"`): 312 at A1,
   543 at A2 and 837 at B1. A native speaker should review them, B1 first.
 - **Suicide and self-harm filter is Korean-only.** `langs/ko.py` drops these
   sentences at every level (`DROP_ALL_KO`, `DROP_ALL_KO_EN`). The shared

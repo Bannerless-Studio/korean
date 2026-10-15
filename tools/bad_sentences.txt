@@ -18,3 +18,23 @@
 거의 모든 바나나들이 익었어요.
 # s3124 story pair audit: English "He" for 사자 (lion)
 사자도 물을 마시고 싶어한다.
+# s3147 story pair audit (review): English adds a clause ("since she could buy all the things she needed with the gold")
+그녀도 돈은 충분히 많았기에 일을 하지 않았어요.
+# s3144 story pair audit (review): particle slip 과일은 for 과일을
+어느 날, 엄마가 과일은 많이 가져오셨어요.
+# s3152 story pair audit (quote-fix rows): EN "he" vs KO her father (그의 아버지)
+그녀는 그의 아버지가 한 여성의 손을 잡고 있는 것을 보고는 가만히 멈춰 서 있었어요.
+# s3158 story pair audit (quote-fix rows): EN has the quote "Please come back with me!" the KO lacks
+그녀는 친구들에게 부탁했어요.
+# s3163 story pair audit (quote-fix rows): name for pronoun, EN adds "But"
+네게데는 복수를 하려고 마음 먹었어요.
+# s3165 story pair audit (quote-fix rows): KO "I never forget" vs EN "Never, not me!"
+나는 "나는 절대 안 잊어요!" 라고 답해요.
+# s3167 story pair audit (quote-fix rows): KO starts with a dangling 라고 물었어요 the EN lacks
+라고 물었어요. 닭은 아무 말도 하지 않았어요.
+# s3172 story pair audit (quote-fix rows): EN drops "from"/spacing slip 부터, loose
+"이 아무것도 없는 땅에서 부터 피해."
+# s3174 story pair audit (quote-fix rows): KO complete, EN truncated "as you prepare..."
+"할머니, 제발 보게 해주세요..."
+# s3177 story pair audit (quote-fix rows): 부자 (rich man) vs "The man"
+부자는 매우 슬프고 외로웠어요.
